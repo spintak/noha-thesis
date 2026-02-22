@@ -95,20 +95,20 @@ A *repository* (or *repo*) is just a folder of files stored on GitHub, with a fu
 
 1. Go to the template repository on GitHub.
 2. Click the **Fork** button in the top-right corner.
-3. GitHub will create a copy under your own account (e.g. `github.com/your-username/noha-thesis-template`).
+3. GitHub will create a copy under your own account (e.g. `github.com/your-username/noha-thesis-typst`).
 
 ### Step 2 — Clone your fork to your computer
 
 *Cloning* downloads your fork so you can work on it locally. Replace `your-username` with your actual GitHub username:
 
 ```bash
-git clone https://github.com/your-username/noha-thesis-template.git
+git clone https://github.com/your-username/noha-thesis-typst.git
 ```
 
-This creates a folder called `noha-thesis-template` on your computer. Navigate into it:
+This creates a folder called `noha-thesis-typst` on your computer. Navigate into it:
 
 ```bash
-cd noha-thesis-template
+cd noha-thesis-typst
 ```
 
 ---
@@ -118,7 +118,7 @@ cd noha-thesis-template
 Here is what the folder contains and what each part is for:
 
 ```
-noha-thesis-template/
+noha-thesis-typst/
 ├── main.typ                ← Master file: assembles the whole thesis
 ├── template.typ            ← Page layout and styling (don't edit this)
 ├── glossary.typ            ← All your abbreviations and key concepts
@@ -441,7 +441,7 @@ To replace them:
 
 ### Option A — Live preview in VS Code (recommended while writing)
 
-1. Open the project folder in VS Code: **File → Open Folder** and select the `noha-thesis-template` folder.
+1. Open the project folder in VS Code: **File → Open Folder** and select the `noha-thesis-typst` folder.
 2. Open `main.typ` by clicking it in the file list on the left.
 3. Click the small preview icon in the top-right corner of the editor (it looks like a split screen), or press `Ctrl+Shift+P` / `Cmd+Shift+P` and search for **Typst: Preview**.
 4. A live PDF preview opens beside your editor and updates as you type.
