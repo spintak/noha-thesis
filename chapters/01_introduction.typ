@@ -52,12 +52,11 @@ This research utilizes a qualitative, decolonial institutional ethnography to in
 The study is grounded in the case of CVTL, serving as an entry point to analyze the broader "documentary reality" (Smith, 1990 cited in @escobarEncounteringDevelopment, p. 107) created by donor institutions in the humanitarian sector.
 The mixed-method research will involve a combination of participant observation, semi-structured interviews, and document analysis to gather data on the experiences and perspectives of local humanitarian workers at CVTL. Document analysis will review institutional guidelines and reports, as well as digital tools (e.g., KoboToolbox) used for reporting, in order to understand the formal structures and expectations around knowledge management and reporting.
 Data analysis will be conducted using thematic analysis to identify key themes and patterns in the data.
-Conceptual frameworks of decolonial theory (Dorothy Smith, Arturo Escobar, Paul Sillitoe, Alan Bicker, and Johan Pottier) and the Theory of Communicative Disenfranchisement (Elizabeth A. Hintz and Kristina M. Sharp).
-
+The conceptual frameworks emphasized concern decolonial theory (Dorothy Smith, Arturo Escobar, Paul Sillitoe, Alan Bicker, and Johan Pottier) and the Theory of Communicative Disenfranchisement (Elizabeth A. Hintz and Kristina M. Sharp).
 
 === Ethical Considerations
 
-#lorem(60)
+I have no ethics. 
 
 == Utility & Limitations
 

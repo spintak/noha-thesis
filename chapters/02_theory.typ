@@ -13,9 +13,7 @@ This literature review synthesizes existing research on the intersection of huma
 
 == Conceptual Framework
 
-#lorem(80)
-
-#lorem(60)
+I have no concepts.
 
 === First Theoretical Theme
 
