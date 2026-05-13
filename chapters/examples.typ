@@ -4,25 +4,25 @@
 
 == Footnotes
 
-#lorem(20) #footnote[This is a footnote. It can contain any inline content, including citations @smith2022.]
+// #lorem(20) #footnote[This is a footnote. It can contain any inline content, including citations @smith2022.]
 
-#lorem(20)
+// #lorem(20)
 
-== Citations
+// == Citations
 
-According to #cite(<doe2023>, form: "prose", supplement: "p. 1") "#lorem(10)"
+// According to #cite(<doe2023>, form: "prose", supplement: "p. 1") "#lorem(10)"
 
-#lorem(20) @smith2022.
+// #lorem(20) @smith2022.
 
-#lorem(20) @un2021[pp.~12-13].
+// #lorem(20) @un2021[pp.~12-13].
 
 == Block quote
 
 #lorem(30)
 
-#quote(block: true, attribution: [@doe2023[p. 42]])[
-  #lorem(30)
-]
+// #quote(block: true, attribution: [@doe2023[p. 42]])[
+//   #lorem(30)
+// ]
 
 #lorem(30)
 

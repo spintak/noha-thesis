@@ -9,12 +9,12 @@
 
 // ─── Title Page (no page number) ─────────────────────────────────────────────
 #title-page(
-  title: [Thesis Title],
-  subtitle: [A catchy subtitle],
-  author: "John Doe",
-  student-number: "S2123456",
-  supervisor: "Dr Jane Smith",
-  supervisor-affiliation: "University of Groningen",
+  title: [Epistemological Disenfranchisement in the Humanitarian Sector],
+  subtitle: [How Global North Metrics Marginalize Indigenous Knowledge Management],
+  author: "Shantara Lauren Dyah Pintak",
+  student-number: "24297432",
+  supervisor: "Dr. Sulagna Maitra",
+  supervisor-affiliation: "University College Dublin",
   month-year: "May 2026",
 )
 
@@ -74,10 +74,10 @@
 #include "chapters/03_empirical.typ"
 #include "chapters/04_discussion.typ"
 #include "chapters/05_conclusions.typ"
-#include "chapters/examples.typ"
+// #include "chapters/examples.typ"
 
 // ─── Bibliography ─────────────────────────────────────────────────────────────
-#bibliography("references.bib", style: "apa", title: "Bibliography")
+#bibliography("references.bib", style: "harvard-cite-them-right", title: "Bibliography")
 
 // ─── Appendices ───────────────────────────────────────────────────────────────
 #set heading(numbering: "A.1.1")

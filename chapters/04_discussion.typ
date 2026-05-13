@@ -1,8 +1,10 @@
 #import "/template.typ": lorem
 
-= Discussion
+= Discussion and Analysis
 
-#lorem(60)
+But with such standardization of metrics, one must ask whose stories are being told and how? 
+What knowledge is being valued and what is being left out? 
+What type of information can be measured?
 
 == Points of Contrast
 
