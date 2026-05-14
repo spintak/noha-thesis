@@ -12,18 +12,12 @@ The Cynefin Framework was "designed to manage anthro-complexity, or complexity i
 Furthermore, as participants reflect on past reporting challenges, the data is subject to the risk of retrospective coherence, where individuals may inadvertently reframe their original state of "aporetic" confusion into a more structured and logical narrative that masks the initial complexity of the experience (@CynefinFieldGuideActual, p. 61.)
 Finally, the findings must be viewed through the lens of "bounded applicability," recognizing that the insights derived from this case study may not be universally generalizable but can offer valuable perspectives for similar contexts and contribute to broader theoretical discussions in the field of humanitarian knowledge management (@CynefinFieldGuideActual, p. 69).
 
-=== First Theoretical Theme
+=== Bureaucratization of Information
 
-#lorem(100)
 
-#lorem(60)
+=== Disenfranchisement of Local Humanitarian Workers in Knowledge Production
 
-=== Second Theoretical Theme
 
-#lorem(100)
 
-#lorem(60)
+=== Navigating the Tension Between Standardized Reporting and Lived Experiences
 
-== Chapter Summary
-
-#lorem(60)
