@@ -41,15 +41,3 @@ The study will include:
 #lorem(100)
 
 #lorem(60)
-
-== Ethical Considerations
-
-#lorem(80)
-
-#lorem(60)
-
-== Limitations
-
-#lorem(80)
-
-#lorem(60)

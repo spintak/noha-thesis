@@ -52,12 +52,17 @@ This research utilizes a qualitative, decolonial institutional ethnography to in
 The study is grounded in the case of CVTL, serving as an entry point to analyze the broader "documentary reality" (Smith, 1990 cited in @escobarEncounteringDevelopment, p. 107) created by donor institutions in the humanitarian sector.
 The mixed-method research will involve a combination of participant observation, semi-structured interviews, and document analysis to gather data on the experiences and perspectives of local humanitarian workers at CVTL. Document analysis will review institutional guidelines and reports, as well as digital tools (e.g., KoboToolbox) used for reporting, in order to understand the formal structures and expectations around knowledge management and reporting.
 Data analysis will be conducted using thematic analysis to identify key themes and patterns in the data.
-The conceptual frameworks emphasized concern decolonial theory (Dorothy Smith, Arturo Escobar, Paul Sillitoe, Alan Bicker, and Johan Pottier) and the Theory of Communicative Disenfranchisement (Elizabeth A. Hintz and Kristina M. Sharp).
+The conceptual structures for this thesis concern decolonial theory (Dorothy Smith, Arturo Escobar, Paul Sillitoe, Alan Bicker, and Johan Pottier), the Theory of Communicative Disenfranchisement (Elizabeth A. Hintz and Kristina M. Sharp), and the Cynefin Frameowork (Dave Snowden and Alessandro Rancati) to analyze the dynamics of knowledge production and power in the humanitarian sector.
 
 === Ethical Considerations
 
-I have no ethics. 
+This study adheres to the UCD Low Risk Study protocols, ensuring that research is conducted with respect for the dignity of participants and without causing intentional harm.
+- Informed and Voluntary Consent: All participants are fully briefed on the study's purpose and provided written consent forms. They are informed of their right to withdraw at any time without penalty.
+- Confidentiality and Anonymity: To encourage honesty and protect professional standing, all data is anonymized. 
+- Data Sovereignty and Management: Research is conducted in alignment with CVTL and IFRC data-sharing policies, with data stored securely according to university guidelines and accessible only to the research team.
+- Positionality and Bias: The researcher acknowledges her positionality as an outsider to the local context and takes steps to mitigate bias through reflexivity and by prioritizing voices of local practitioners and perspectives from the Global South. The researcher also acknowledges the power dynamics inherent in the research process and strives to conduct the research in a way that is respectful to the participants. The researcher is also consiencious of the post-colonial context in Timor-Leste and her positionality as a person of Indonesian descent and a national of the United States of America---countries that bear responsibility for the genocide in Timor-Leste and its continued impact---and took care to approach the research with sensitivity.
+=== Utility & Limitations
+The research aims not only to produce academic knowledge but to offer     practical insights that can inform the practices of CVTL and the wider humanitarian community. The findings will be shared with CVTL in order to contribute to their efforts in capacity building within the organization.
+The research also aims to contribute to ongoing discussions about improving knowledge management practices and addressing communicative disenfranchisement in the humanitarian sector.
 
-== Utility & Limitations
-
-#lorem(80)
+The limitations of this research include the potential for bias in the data collection and analysis process, as well as the limited generalizability of the findings due to the focus on a single case study, that of CVTL. Additionally, the research may be limited by the availability and willingness of participants to share their experiences and perspectives, as well as by the constraints of time and resources. The researcher will take steps to mitigate these limitations through careful data collection and analysis, as well as by being transparent about the limitations of the study in the final report.
