@@ -7,18 +7,15 @@ The way information is produced, shared, and valued can have profound implicatio
 This clear misalignment between demands and practices could be leading to epistemological disenfranchisement, where the value of IKM is marginalized in favor of metrics that are more easily quantifiable and aligned with Global North institutions' efforts to standardize and "professionalize" 
 @escobarEncounteringDevelopment the humanitarian sector.
 
-== Answers to Research Questions
-
-#lorem(120)
 
 == Final Conclusions
 
-#lorem(100)
+
 
 == Constraints and Limitations
 
-#lorem(80)
+
 
 == Recommendations
 
-#lorem(80)
+

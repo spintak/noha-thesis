@@ -1,4 +1,4 @@
-#import "/template.typ": lorem
+#import "/template.typ": 
 
 #page(numbering: none)[
   #v(1fr)

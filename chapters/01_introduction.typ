@@ -6,6 +6,7 @@ CVTL is a humanitarian organization that operates in a post-colonial context, wh
 As an auxillary to the government, the organization’s work encompasses a range of humanitarian activities, including disaster response, health services, and community development.
 CVTL currently faces a persistent communication chasm where formal reporting metrics demanded by international donors and the International Federation of Red Cross and Red Crescent Societies (IFRC) differ from CVTL's organizational practices. 
 International organizations, like the Red Cross Movement, are institutions with structures of behavior and practice that are expected to be followed by their partners and National Societies, like CVTL.
+
 The reporting metrics demanded by donors and the IFRC are standardized across the humanitarian sector and are designed to create accountability and demonstrate effectiveness.
 It seems, however, that the behaviors and practices that are being demanded by the funding bodies and institutional structures seem not to align with the preferred practices of the local staff at CVTL. 
 Lack of reporting is, of course, a significant concern for the donors. 
@@ -19,6 +20,7 @@ The humanitarian sector operates with a fundamental tension between local autono
 For organizations like CVTL, this tension manifests in the need to navigate the demands of international donor bodies while also maintaining their own practices and priorities that are rooted in local contexts and cultures.
 In oder to enjoy the confidence of its donors, CVTL must demonstrate its effectiveness and accountability to them while also ensuring that its work remains relevant and responsive to the needs of the communities it serves.
 The adoption of reporting metrics of their donors and the Federation can be seen as a strategy for CVTL to survive and thrive within the international humanitarian system as it allows access to funding and resources that are essential for their operations.
+
 This strategy, however, also comes with risks as it may lead to a misalignment between the preferred practices of the local staff and the practices demanded by donors.
 Technical upgrades, such as the implementation of digital reporting systems, are often seen as a solution to these challenges but they may not actually address the underlying issues of structural incongruence.
 Local practitioners may find themselves navigating a complex web of reporting requirements that do not align with their preferred ways of sharing knowledge or value the information they deem important, leading to frustration and a sense of disempowerment.
@@ -27,7 +29,7 @@ The problem is that these systems are not context-based and instead impose a one
 Local humanitarian workers may find themselves becoming "custodians of comprehension"@JoharCatalyst ---bureaucrats tallying the numbers and filling out the forms to satisfy donor requirements---rather than "catalysts for transformation"@JoharCatalyst ---practitioners who are able to use their local knowledge and expertise to drive meaningful change in their communities.
 And so, partner organizations in the Global South, like CVTL, and their staff are left to negotiate their legitimacy within the system while navigating the power dynamics in which they are dependent on the funding and resources provided by the Global North institutions and donors.
 
-=== Problem Statement
+== Problem Statement
 The data that is being reported and the information that is not are both important to understand the dynamics of knowledge production and power in the humanitarian sector.  
 By examining the case of CVTL, this thesis seeks to shed light on the broader dynamics of knowledge production and power in the humanitarian sector and to contribute to ongoing discussions about decolonizing humanitarianism and valuing diverse forms of knowledge.
 
