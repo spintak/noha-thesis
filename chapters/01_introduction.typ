@@ -50,11 +50,11 @@ The research aims to answer the following research question:
 + How do local leaders within organizations navigate the tension between the demands of international donors nad the compulsions of local knowledge management practices?
 
 == Methodology
-This research utilizes a qualitative, decolonial institutional ethnography to investigate the communicative processes that shape knowledge management within the humanitarian sector.
-The study is grounded in the case of CVTL, serving as an entry point to analyze the broader "documentary reality" (Smith, 1990 cited in @escobarEncounteringDevelopment, p. 107) created by donor institutions in the humanitarian sector.
-The mixed-method research will involve a combination of participant observation, semi-structured interviews, and document analysis to gather data on the experiences and perspectives of local humanitarian workers at CVTL. Document analysis will review institutional guidelines and reports, as well as digital tools (e.g., KoboToolbox) used for reporting, in order to understand the formal structures and expectations around knowledge management and reporting.
+This research utilizes a qualitative case study to investigate the communicative processes that shape knowledge management within CVTL, serving as an entry point to analyze the broader "documentary reality" (Smith, 1990 cited in @escobarEncounteringDevelopment, p. 107) created by donor institutions in the humanitarian sector.
+The mixed-method research will involve a combination of participant observation, semi-structured interviews, and document analysis to gather data on the experiences and perspectives of local humanitarian workers at CVTL. 
+Document analysis will review institutional guidelines and reports, as well as digital tools (e.g., KoboToolbox) used for reporting, in order to understand the formal structures and expectations around knowledge management and reporting.
 Data analysis will be conducted using thematic analysis to identify key themes and patterns in the data.
-The conceptual structures for this thesis concern decolonial theory (Dorothy Smith, Arturo Escobar, Paul Sillitoe, Alan Bicker, and Johan Pottier), the Theory of Communicative Disenfranchisement (Elizabeth A. Hintz and Kristina M. Sharp), and the Cynefin Frameowork (Dave Snowden and Alessandro Rancati) to analyze the dynamics of knowledge production and power in the humanitarian sector.
+The conceptual structures for this thesis concern decolonial theory (Dorothy Smith, Arturo Escobar, Paul Sillitoe, Alan Bicker, and Johan Pottier), the Theory of Communicative Disenfranchisement (Elizabeth A. Hintz and Kristina M. Sharp), and the Cynefin framework (Dave Snowden and Alessandro Rancati) to analyze the dynamics of knowledge production and power in the humanitarian sector.
 
 === Ethical Considerations
 

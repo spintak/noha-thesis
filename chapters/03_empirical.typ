@@ -17,7 +17,6 @@ The study will include:
 Data will be collected through a combination of qualitative and quantitative methods, including: 
 - Semi-structured interviews with local humanitarian workers and donor representatives to explore their experiences, perspectives, and challenges related to knowledge management and reporting.
 - Document analysis of CVTL's reporting templates, guidelines, and other relevant materials to understand the formal structures and expectations around knowledge management.
-- 
 
 == Data Analysis
 
