@@ -15,6 +15,8 @@ The findings of this study will be analyzed in relation to the three main themes
 === Perceptions of Mandated Reporting Tools
 === Ordered Bias in Reporting Mechanisms
 === Navigating the Tension
+As it stands, not only is the information that is being reported to donors disconnected from the lived experiences of local humanitarian workers, but these workers are also disenfranchised in the knowledge production process.
+The standardized reporting mechanisms that are designed to satisfy donor requirements often do not take into account the local knowledge and expertise of local humanitarian workers, and instead prioritize the information that is deemed valuable by donors.
 == Implications for Practice
 The Cynefin framework emphasizes the importance of context in decision-making and problem-solving.
 An element of contextual awareness is acknowledging the "need to establish meaningful processes of stakeholder engagement beyond user research to make sense of local experiences and build whole ecosystems from the bottom-up" @CynefinFieldGuideActual[p. 37].
@@ -34,6 +36,4 @@ In fact, direct funding to local intermediaries and organizations "can deliver p
 So why is money still being funneled through these intermediaries?
 The legecy of colonial power dynamics and the narratives of mistrust that justify the need for INGOs to act as intermediaries and gatekeepers of knowledge production continue to perpetuate this system, even in the face of evidence that it is not the most effective way to support affected communities.
 Diane Doane, author of "The INGO Problem: Privelege, power, and renewal", argues that it is the responsibility of these institutions holding privelege to recognize their perpetuation of colonial, racial dynamics and to take active steps to make space for the local humanitarians and the communities served.
-The assumption of mistrust and paternalism manifests through vague "western-derived" definitions of 'capacity' and that local humanitarians lack such means and therefore require the intervention and oversight of INGOs @doaneINGOProblem2024[p. 50]. 
-According to Doane, "most risk management and due diligence systems" of these INGOs concerned capacity @doaneINGOProblem2024[p. 50].
-"'Unfortunately, the assessment of who has 'capacity' has been weaponized and used as means to justify the slow relinquishment of power by INGOs and their hollow promises of localization. We require more individuals actively engaged in community work and fewer confined to their desks, endlessly reporting to donors'," argued Michael Vincent Mercado of the CDP [as cited in @doaneINGOProblem2024[p. 50]].
+
