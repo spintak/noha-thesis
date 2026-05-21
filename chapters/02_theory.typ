@@ -9,7 +9,12 @@ The review is structured around three main themes:
 + the disenfranchisement of local humanitarian workers in knowledge production, and 
 + how these humanitarians navigate the tension between the demand for standardized reporting and the complexity of their lived experiences.
 
-== Conceptual Frameworks
+== Strategy 
+
+== Key terms and concepts
+
+
+== Conceptual frameworks
 
 The Cynefin Framework was "designed to manage anthro-complexity, or complexity in human systems" @CynefinFieldGuideActual[p. 57]. Limitations of the framework include its focus on organizational decision-making and its potential oversimplification of complex social phenomena. However, it provides a useful lens for understanding the challenges of knowledge management in humanitarian contexts. Methodologically, because the Cynefin framework is utilized as a "decision support framework" rather than a predictive model, the findings are intended to offer diagnostic perspective and "sense-making" rather than "context-free" or "standard solutions" @Cynefin. 
 Another limitation is that as participants reflect on past reporting challenges, the data is subject to the risk of retrospective coherence, where individuals may inadvertently reframe their original state of "aporetic" confusion into a more structured and logical narrative that masks the initial complexity of the experience @CynefinFieldGuideActual[p. 61].
