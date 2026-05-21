@@ -35,5 +35,7 @@ The overspending is precisely due to the "inflated international overhead and sa
 In fact, direct funding to local intermediaries and organizations "can deliver programming that is 32% more cost efficient than [through] internatioanl intermediaries" @doaneINGOProblem2024[p. 61].
 So why is money still being funneled through these intermediaries?
 The legecy of colonial power dynamics and the narratives of mistrust that justify the need for INGOs to act as intermediaries and gatekeepers of knowledge production continue to perpetuate this system, even in the face of evidence that it is not the most effective way to support affected communities.
-Diane Doane, author of "The INGO Problem: Privelege, power, and renewal", argues that it is the responsibility of these institutions holding privelege to recognize their perpetuation of colonial, racial dynamics and to take active steps to make space for the local humanitarians and the communities served.
+Doane argues that it is the responsibility of these institutions holding privelege to recognize their perpetuation of colonial, racial dynamics and to take active steps to make space for the local humanitarians and the communities served.
+
+Grassroot, "return to culture" @escobarEncounteringDevelopment[p. 14].
 
