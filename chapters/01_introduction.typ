@@ -2,14 +2,15 @@
 
 = Introduction
 
-CVTL is a humanitarian organization that operates in a post-colonial context, where the legacy of Portuguese colonization as well as the subsequent invasion and genocide committed by Indonesian forces has shaped the socio-political landscape. 
-As an auxillary to the government, the organization’s work encompasses a range of humanitarian activities, including disaster response, health services, and community development.
-CVTL currently faces a persistent communication chasm where formal reporting metrics demanded by international donors and the International Federation of Red Cross and Red Crescent Societies (IFRC) differ from CVTL's organizational practices. 
-International organizations, like the Red Cross Movement, are institutions with structures of behavior and practice that are expected to be followed by their partners and National Societies, like CVTL.
+Cruz Vermelha de Timor-Leste (CVTL) is a National Society of the International Federation of Red Cross and Red Crescent Societies (IFRC). 
+It operates in a post-colonial context, where the legacy of Portuguese colonization as well as the subsequent invasion and genocide committed by Indonesian forces has shaped the socio-political landscape. 
+As an auxillary to the government, the organization’s work encompasses a range of humanitarian and development activities, including disaster response, health services, and community development.
+CVTL currently faces a persistent communication chasm where formal reporting metrics demanded by international donors and the IFRC differ from practices preferred by local staff and volunteers. 
+International organizations, like the IFRC, are institutions with structures of behavior and practice that are expected to be followed by their partners and National Societies, like CVTL.
 
-The reporting metrics demanded by donors and the IFRC are standardized across the humanitarian sector and are designed to create accountability and demonstrate effectiveness.
-It seems, however, that the behaviors and practices that are being demanded by the funding bodies and institutional structures seem not to align with the preferred practices of the local staff at CVTL. 
+It seems, however, that the behaviors and practices that are being demanded by the funding bodies and international partners seem not to align with the preferred practices of the local staff at CVTL. 
 Lack of reporting is, of course, a significant concern for the donors. 
+The reporting metrics demanded by donors and the IFRC are standardized across the humanitarian sector and are designed to create accountability and demonstrate effectiveness.
 Lack of adherence to the reporting requirements can lead to loss of funding and resources, which can have serious consequences for the organization's ability to carry out its humanitarian work.
 The disconnect between the reporting metrics and the practices of local staff can also lead to a lack of trust and credibility with donors, which can further jeopardize funding and resources.
 This misalignment between demands and practices may be an anomaly to CVTL, but it is also very possible that this is an issue that is widespread across the humanitarian sector, particularly for organizations operating in post-colonial contexts with strong oral traditions and different ways of sharing knowledge.
