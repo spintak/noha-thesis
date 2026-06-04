@@ -70,8 +70,8 @@
 #counter(page).update(1)
 
 #include "chapters/01_introduction.typ"
-#include "chapters/02_theory.typ"
 #include "chapters/03_empirical.typ"
+#include "chapters/02_theory.typ"
 #include "chapters/04_discussion.typ"
 #include "chapters/05_conclusions.typ"
 // #include "chapters/examples.typ"
