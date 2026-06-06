@@ -1,11 +1,11 @@
 #import "/template.typ": lorem
 
 = Methodology
-This research utilizes a qualitative case study to investigate the communicative processes that shape knowledge management within CVTL, serving as an entry point to analyze the broader "documentary reality" (Smith, 1990 cited in @escobarEncounteringDevelopment, p. 107) created by donor institutions in the humanitarian sector.
+This research utilizes a qualitative case study to investigate the communicative processes that shape knowledge management within CVTL, serving as an entry point to analyze the broader "documentary reality" (Smith, 1990 cited in @escobarEncounteringDevelopment[p. 107]) created by donor institutions in the humanitarian sector.
 The mixed-method research will involve a combination of participant observation, semi-structured interviews, and document analysis to gather data on the experiences and perspectives of local humanitarian workers at CVTL. 
 Document analysis will review institutional guidelines and reports, as well as digital tools (e.g., KoboToolbox) used for reporting, in order to understand the formal structures and expectations around knowledge management and reporting.
 Data analysis will be conducted using thematic analysis to identify key themes and patterns in the data.
-The conceptual structures for this thesis concern decolonial theory (Dorothy Smith, Arturo Escobar, Paul Sillitoe, Alan Bicker, and Johan Pottier), the Theory of Communicative Disenfranchisement (Elizabeth A. Hintz and Kristina M. Sharp), and the Cynefin framework (Dave Snowden and Alessandro Rancati) to analyze the dynamics of knowledge production and power in the humanitarian sector.
+The conceptual structures for this thesis concern decolonial theory (Dorothy Smith, Arturo Escobar, Paul Sillitoe, Alan Bicker, and Johan Pottier), the Theory of Communicative Disenfranchisement (Elizabeth A. Hintz and Kristina M. Sharp), and the Cynefin® framework (Dave Snowden and Alessandro Rancati) to analyze the dynamics of knowledge production and power in the humanitarian sector.
 
 == Ethical Considerations
 
@@ -25,8 +25,8 @@ The limitations of this research include the potential for bias in the data coll
 
 The study will include:
 
-- Local humanitarian workers at CVTL who are involved in knowledge management and reporting processes.
-- Staff from CVTL's donor organizations who interact with CVTL's reporting and knowledge management systems.
+- Local humanitarian workers at CVTL who are involved in knowledge management and reporting processes;
+- Staff from CVTL's donor organizations who interact with CVTL's reporting and knowledge management systems;
 - Representatives from other donor institutions working in both Timor-Leste and elsewhere in order to provide insights into the broader context of the donor-recipient relationship and its impact on knowledge management practices.
 
 == Data Collection
