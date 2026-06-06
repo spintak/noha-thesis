@@ -10,8 +10,49 @@ The review is structured around three main themes:
 + how these humanitarians navigate the tension between the demand for standardized reporting and the complexity of their lived experiences.
 
 == Strategy 
+The literature selection strategy for this thesis follows a systematic and qualitative approach to review current discussions regarding knowledge management. 
+The search resulted in few examinations of specifically humanitarian contexts and instead in the related field of development. 
+Several seminal sources were revealed to the researcher through formative conversations with classmates, interviewees, and supervisory meetings with Dr. Sulagna Maitra.
+The search was primarily conducted across major academic databases, including University College Dublin's (UCD) OneSearch tool, Google Scholar, JSTOR, ResearchGate, and Springer. 
+The inclusion criteria prioritized peer-reviewed journal articles and foundational classics in development anthropology and post-structuralism, specifically those that examine the historical construction of the development and humanitarian sectors. 
+The selection strategy explicitly aimed to synthesize dominant and emerging schools of thought, ranging from early post-war modernization approaches that dismissed local knowledge as “primitive” to contemporary participatory paradigms that advocate for Sankofaism—building a future rooted in a “treasured positive past” @MdhuliKM[p.3]. 
+Recommended readings and further inquiry were sparked through references within the initial readings. 
+Primary search terminology included, but was not limited to: "information management", "knowledge management", "indigenous knowledge management", "oral knowledge sharing", "monitoring and evaluation", "reporting", "development", "humanitarian", and "decolonial".
+
+A primary limit and limitation of this strategy is its linguistic and geographic boundary; as the search was constrained to English-language literature, which inherently limits the perspective of the very voices the study proposes are being marginalized by Western-derived structures.
+The limited existing literature specifically about humanitarian work reflects the need for a focused investigation into how Global North metrics function as a mechanism of communicative disenfranchisement for practitioners in contexts like Timor-Leste.
+
 
 == Key terms and concepts
+
+=== Abbreviations
+
+/ CVTL: Cruz Vermelha de Timor-Leste, the Red Cross National Society of Timor-Leste
+/ DT: Disenfranchising Talk, a construct within TCD referring to communicative practices that sustain hegemonic ideologies through discrediting, silencing, and stereotyping
+/ IFRC: International Federation of Red Cross and Red Crescent Societies, the global organization that oversees the development of the National Societies and coordinates large-scale disaster response
+/ INGO: International Non-Governmental Organisation, typically Global North-based organisations that act as intermediaries between major donors and local implementing partners
+/ KM: Knowledge Management, the processes of collecting, storing, and disseminating information
+/ TCD: The Theory of Communicative Disenfranchisement, a theoretical framework developed by Hintz and Sharp explaining how groups are systematically excluded from communicative practices that shape discourse and policy
+
+
+=== Key concepts
+/ Beneficiaries versus providers: A dichotomy perpetuated by the aid industry where "beneficiaries" are often treated as numerical targets beholden to the priorities and conditions of "providers," who are often perceived as White Saviors @khanHowWeClassify[p. 3]
+/ Bureaucratization of Information: The standardization and technocratization of knowledge through formal reporting requirements, whereby complex local realities are reduced to quantifiable metrics and donor-defined categories
+/ Communicative Disenfranchisement: The process by which communication results in the deprivation of a person's rights and privileges; in the humanitarian sector, this manifests as the marginalisation of local workers from legitimate knowledge production @hintzsharpeTCD
+/ Custodians of Comprehension vs. Catalysts for Transformation: A distinction from Johar used to contrast humanitarian workers reduced to form-filling compliance (custodians) with those empowered to apply local knowledge toward meaningful change (catalysts) @JoharCatalyst
+/ Developed versus developing countries: Originating in the 1960s for the transfer of resources from rich to poor nations, this term implies that "developed" countries have reached their full potential and suggests there is only one universal way to be developed @khanHowWeClassify[p. 2]
+/ Documentary Reality: A term coined by Dorothy Smith referring to the institutional reliance on textual and documentary forms as a means of representing reality, inevitably detached from the local historical context of the experiences they purport to represent @escobarEncounteringDevelopment[p. 146]
+/ Epistemological Chauvinism: John Bousfield's term for the privileging of Western 'scientific' knowledge as inherently superior to local, tacit, or oral knowledge @sillitoeetalParticipatingDevelopmen[p. 240]; the ideological foundation that dismisses local expertise as anecdotal or unreliable; with epistemological, as defined by Hintz and Sharpe, as "concerned with the recognition of knowledge" as well as "what counts as knowledge, and whose knowledge coutns" @hintzsharpeTCD[p. 91]
+/ First World versus Third World: A post-WW2 theoretical classification that implies racism through hierarchy, signifying "backwardness" in the "Third World" compared to others @khanHowWeClassify[p. 2]
+/ Global North versus Global South: Emerging in the 1980s, these terms indicate divisions based on access to wealth and political power and highlight the "whiteness of wealth," despite being geographically inaccurate @khanHowWeClassify[p. 2]
+/ Goal-Coded Systems: A concept from Indy Johar describing systems whose operative purpose arrives from outside---prompted, benchmarked, and evaluated by external frames---leading to a "crisis of orientation" for those operating within them @JoharGoalCodedSystemsCrisis
+/ Local versus international: Within the aid industry, "international" is used to refer to organizations in the North/West (the "epicentre of everything progressive"), while "local" often carries derogatory connotations, suggesting a local expert is inferior to an "international" one @khanHowWeClassify[p. 2]
+/ Localization: A donor-promoted concept referring to the transfer of decision-making power and resources to local organisations; critiqued in this thesis as largely rhetorical, undermined by the very reporting structures imposed on local "partners"
+/ Ordered Bias: The structural tendency of standardised reporting systems to impose rigid, linear formats onto complex and context-specific knowledge, forcing nuanced field realities into pre-defined bureaucratic categories
+/ The Myth of the Lazy Native: A concept from Syed Hussein Alatas describing the colonial ideology that portrayed native populations as lacking capacity and work ethic in order to justify exploitation and domination---a legacy argued to persist in current INGO paternalism toward Global South partners @alatasMythLazyNative
+/ Orientation vs. Agency: A distinction drawn by Johar; agency is the capacity to pursue an end, whereas orientation is the deeper capacity to discover, revise, and be claimed by what ends are worth pursuing. Local humanitarian workers are argued to be denied orientation by donor-driven goal-coded systems @JoharGoalCodedSystemsCrisis
+/ The West versus the East (including vs the Rest or the Orient): An ideological and hegemonic sociopolitical distinction that falsely touts human values like freedom and rationality as exclusively Western @khanHowWeClassify[p. 2]
+/ White Gaze: A term used by Shallwani and Dossa to describe how Whiteness is established as the norm in development and humanitarian evaluation, determining what counts as valid knowledge and evidence while framing Global South populations in terms of deficit @EvaluationWhiteGaze
 
 
 == Conceptual frameworks
