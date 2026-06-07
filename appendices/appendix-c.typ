@@ -12,6 +12,7 @@
 
   - 5.3 #text(weight: "bold", "All assistance should seek to minimise any potentially  harmful social and economic impacts of assistance (“do no harm”)"), as well as take account of international environmental standards.
 
+  
   Beneficiary engagement:
   - 5.4 #text(weight: "bold", "National Societies and the International Federation  consider themselves as accountable to disaster-affected people and shall involve them in needs assessment and decision-making to ensure that assistance is appropriate and meets their needs and priorities.") 
 
@@ -59,6 +60,8 @@ Risk management and audit:
 
 - 5.22 #text(weight: "bold", "When fraud or corruption is suspected, necessary action shall be promptly taken. Allegations will be investigated and follow-up action taken as necessary. National Societies and the International Federation shall facilitate and cooperate as needed in each other’s investigations and ensure timely and appropriate information sharing and disclosure to relevant stakeholders")
 
+@IFRCprinciples
+
 === #link("http://www.hapinternational.org/what-we-do/hap-standard.aspx", "Humanitarian Accountability Partnership (HAP)") Principles of Accountability
 
 1. Commitment to humanitarian standards and rights
@@ -92,3 +95,4 @@ Risk management and audit:
 7. Implementing Partners
 - Members are committed to the implementation of these principles if and when working through implementation partners
 
+@hap_standard
