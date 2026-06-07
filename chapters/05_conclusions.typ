@@ -18,4 +18,7 @@ This clear misalignment between demands and practices could be leading to episte
 
 == Recommendations
 
+#quote(block: true, attribution: [@sohadMafrollaIntegrating[p. 2261]])[
+Thus, the supremacy of Western knowledge is not explained by a privileged closeness to the truth, but rather by a mix of historic-geographical circumstances linked up with the geopolitics of power @escobarEncounteringDevelopment. In this sense, IK can be termed as the body of historically constituted knowledge that was instrumental in the long-term adaptation of human groups to the biophysical environment. Conclusively, development projects should be designed including the IK of people to whom the projects are addressed (Tumwebaze et al., 2024), rather than rely on the universal acceptability and superiority of SK and “developmentalism” @escobarEncounteringDevelopment, thus redefining and diversely informing the concept of development per se and its aims (Sillitoe and Marzano, 2009), calling for the need of an integration of IK and SK (Bohensky and Maru, 2011), where IK is not a subjugated knowledge, but it collaborates with SK to achieve development (Wang, 2012).]
+
 
