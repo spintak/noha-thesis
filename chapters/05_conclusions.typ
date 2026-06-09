@@ -9,10 +9,11 @@ This clear misalignment between demands and practices could be leading to episte
 
 The dysfunction documented in this study of @cvtl is not incidental but structural: it follows from an institutional logic in which the instruments of accountability are simultaneously instruments of epistemic control.
 The domain misalignment identified through the Cynefin® framework is not merely a technical incompatibility between reporting tools and complex humanitarian realities---it is a political one.
+This arrangement is one prioritizing a "culture of comprehension" @KatsamangosImpotentSocialMovement ---the bureaucratic demand that knowledge be rendered in ordered, standardized, and quantifiable forms before it is recognized as legitimate---a demand that systematically excludes the emergent, relational, and contextually embedded knowledge that defines effective local humanitarian practice.
 Through the lens of @tcd, what presents itself as professionalization is revealed as a silencing mechanism that does not simply exclude indigenous knowledge management practices from the formal record but systematically trains local humanitarians to devalue and discard them.
 The persistence of this arrangement, even as donors and @ingo staff openly acknowledge its dysfunction, points to the colonial power dynamics that continue to undergird the sector---dynamics that are obscured by the language of partnership, localization, and capacity-building.
 Yet the existence of alternatives---the direct funders, the Catalyst Approach, the practitioners who refuse the performance of compliance---demonstrates that this logic is neither inevitable nor irreversible.
-The central contribution of this thesis is therefore not merely diagnostic: it is to insist that the question of what knowledge counts, who is authorized to produce it, and in whose image accountability is designed is not a technical problem amenable to better M&E frameworks, but a political one that requires a fundamental redistribution of epistemic and financial power in the humanitarian sector.
+The central contribution of this thesis is therefore not merely diagnostic: it is to insist that the question of what knowledge counts, who is authorized to produce it, and in whose image accountability is designed is not a technical problem amenable to better monitoring and evaluative frameworks, but a political one that requires a fundamental redistribution of epistemic and financial power in the humanitarian sector.
 
 
 == Recommendations

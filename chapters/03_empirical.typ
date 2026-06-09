@@ -38,6 +38,6 @@ Data will be collected through a combination of qualitative and quantitative met
 == Data Analysis
 
 Data will be analyzed using thematic analysis to identify key themes and patterns related to the research questions. 
-The analysis will be guided by the Cynefin Framework, which provides a lens for understanding the complexity of knowledge management in humanitarian contexts, and the @tcd, which offers insights into the power dynamics and marginalization of local voices in knowledge production. 
+The analysis will be guided by the Cynefin® Framework, which provides a lens for understanding the complexity of knowledge management in humanitarian contexts, and the @tcd, which offers insights into the power dynamics and marginalization of local voices in knowledge production. 
 The findings will be interpreted with existing literature on humanitarianism, decolonial theory, and knowledge production in mind.
 

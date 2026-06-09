@@ -42,7 +42,7 @@
   (
     key: "custodians-of-comprehension",
     short: "Custodians of Comprehension vs. Catalysts for Transformation",
-    description: [A distinction from Johar used to contrast workers reduced to form-filling compliance---"custodians"---with those empowered to create meaningful change---"catalysts" @JoharCatalyst.],
+    description: [A distinction by Indy Johar used to contrast workers reduced to form-filling compliance---"custodians"---with those empowered to create meaningful change---"catalysts" @JoharCatalyst.],
   ),
   (
     key: "decoloniality",
@@ -57,7 +57,7 @@
   (
     key: "developmentalism",
     short: "Developmentalism",
-    description: [The pursuit of economic growth and "the distribution of the benefits of growth" to "solve the social and economic problems of these parts of the world" classified as "Third World"/"developing nation"/Global South @escobarEncounteringDevelopment[p. 5]; formulated upon the "spatial power" from the division of "imaginative geographies" (Said as cited by @escobarEncounteringDevelopment[p. 9]) where nations are labeled "First and Third World, North and South, center and periphery" @escobarEncounteringDevelopment[p. 9] and these "forms of power in terms of class, gender, race, and nationality thus found their way into development theory and practice. The former do not determine the latter in a direct causal relation; rather they are the development discourse's formative elements" @escobarEncounteringDevelopment[p. 43]; prioritization of "Western-style democracy as the end point of development" resulting in an "emphasis on the immediate need for order and efficiency" @manzoModernist[p. 4] in the intervention and management of "developing" nations' political, economic, and cultural affairs.],
+    description: [The pursuit of economic growth and "the distribution of the benefits of growth" to "solve the social and economic problems of these parts of the world" classified as "Third World"/"developing nation"/Global South @escobarEncounteringDevelopment[p. 5]; formulated upon the "spatial power" from the division of "imaginative geographies" (Said as cited by #cite(<escobarEncounteringDevelopment>, form: "author"), #cite(<escobarEncounteringDevelopment>, form: "year"), p. 9) where nations are labeled "First and Third World, North and South, center and periphery" @escobarEncounteringDevelopment[p. 9] and these "forms of power in terms of class, gender, race, and nationality thus found their way into development theory and practice. The former do not determine the latter in a direct causal relation; rather they are the development discourse's formative elements" @escobarEncounteringDevelopment[p. 43]; prioritization of "Western-style democracy as the end point of development" resulting in an "emphasis on the immediate need for order and efficiency" @manzoModernist[p. 4] in the intervention and management of "developing" nations' political, economic, and cultural affairs.],
   ),
   (
     key: "documentary-reality",
@@ -82,7 +82,7 @@
   (
     key: "global-north-versus-global-south",
     short: "Global North versus Global South",
-    description: [Emerging in the 1980s, these terms indicate divisions based on access to wealth, political power, and participation in Western culture. Despite being geographically inaccurate---with countries like Australia falling under the classification of Global North despite existing geographically in the southern hemisphere---these terms are less problematic in comparison to other "dichotmous terminologies" used in the humanitarian and development sectors @khanHowWeClassify[p. 2] but continue to perpetuate the "social production of space implicit in these terms" "bound with the production of differences, subjectivities, and social orders" @escobarEncounteringDevelopment[p. 9] through "imaginative geographies" (Said as cited by @escobarEncounteringDevelopment[p. 9]).],
+    description: [Emerging in the 1980s, these terms indicate divisions based on access to wealth, political power, and participation in Western culture. Despite being geographically inaccurate---with countries like Australia falling under the classification of Global North despite existing geographically in the southern hemisphere---these terms are less problematic in comparison to other "dichotmous terminologies" used in the humanitarian and development sectors @khanHowWeClassify[p. 2] but continue to perpetuate the "social production of space implicit in these terms" "bound with the production of differences, subjectivities, and social orders" @escobarEncounteringDevelopment[p. 9] through "imaginative geographies" (Said as cited by #cite(<escobarEncounteringDevelopment>, form: "author"), #cite(<escobarEncounteringDevelopment>, form: "year"), p. 9).],
   ),
   (
     key: "goal-coded-systems",
@@ -107,12 +107,12 @@
   (
     key: "local-versus-international",
     short: "Local versus International",
-    description: [Within the aid industry, "international" is used to refer to organizations and institutions overseeing projects across the world but often based in the Global North, while "local" often concerns a location in the Global South. While perhaps technically accurate, racial connotations may be carried when in reference to people and capacity: "'local' often has derogatory connotations (eg, a local working in their 'poor' country is juxtaposed with and considered inferior to the 'expat' or international expert from a rich country" @khanHowWeClassify[p. 2].],
+    description: [Within the aid industry, "international" is used to refer to organizations and institutions overseeing projects across the world but often based in the Global North and "local" often concerns an entity located in the Global South. While perhaps technically accurate, racial connotations may be carried when in reference to people and capacity: "'local' often has derogatory connotations (eg, a local working in their 'poor' country is juxtaposed with and considered inferior to the 'expat' or international expert from a rich country" @khanHowWeClassify[p. 2].],
   ),
   (
     key: "localization",
     short: "Localization",
-    description: [A donor-promoted concept referring to the transfer of decision-making power and resources to local organisations; critiqued in this thesis as largely rhetorical, undermined by the very reporting structures imposed on local 'partners'.],
+    description: [A donor-promoted concept referring to the promotion of decision-making power and resources to local organizations; critiqued in this thesis as largely rhetorical, undermined by the very reporting structures imposed on local 'partners'.],
   ),
   (
     key: "modernization",
@@ -122,7 +122,7 @@
   (
     key: "myth-of-the-lazy-native",
     short: "Myth of the Lazy Native",
-    description: [A concept from Dr. Syed Hussein Alatas describing the colonial ideology that portrayed native populations as lacking capacity and work ethic in order to justify exploitation and domination @alatasMythLazyNative[]---a legacy argued to persist in current INGO paternalism toward organizations and humanitarians from the Global South.],
+    description: [A concept from Dr. Syed Hussein Alatas describing the colonial ideology that portrayed native populations as lacking capacity and work ethic in order to justify exploitation and domination @alatasMythLazyNative --- a legacy argued to persist in current INGO paternalism toward organizations and humanitarians from the Global South.],
   ),
   (
     key: "ordered-bias",
@@ -132,7 +132,7 @@
   (
     key: "orientalism",
     short: "Orientalism",
-    description: [Popularized by Dr. Edward W. Said, "a style of thought based upon an ontological and epistemological distinction made between 'the Orient' and (most of the time) 'the Occident'" @said1978orientalism[p. 10]; European imaginations of people, space, and power]
+    description: [Popularized by Dr. Edward W. Said, "a style of thought based upon an ontological and epistemological distinction made between 'the Orient' and (most of the time) 'the Occident'" @said1978orientalism[p. 10]; European imaginations of people, space, and power.]
   ),
   (
     key: "orientation-versus-agency",
