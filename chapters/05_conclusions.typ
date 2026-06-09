@@ -11,7 +11,7 @@ The dysfunction documented in this study of @cvtl is not incidental but structur
 The domain misalignment identified through the Cynefin® framework is not merely a technical incompatibility between reporting tools and complex humanitarian realities---it is a political one.
 Through the lens of @tcd, what presents itself as professionalization is revealed as a silencing mechanism that does not simply exclude indigenous knowledge management practices from the formal record but systematically trains local humanitarians to devalue and discard them.
 The persistence of this arrangement, even as donors and @ingo staff openly acknowledge its dysfunction, points to the colonial power dynamics that continue to undergird the sector---dynamics that are obscured by the language of partnership, localization, and capacity-building.
-Yet the existence of alternatives---the direct funders, the Catalyst Model, the practitioners who refuse the performance of compliance---demonstrates that this logic is neither inevitable nor irreversible.
+Yet the existence of alternatives---the direct funders, the Catalyst Approach, the practitioners who refuse the performance of compliance---demonstrates that this logic is neither inevitable nor irreversible.
 The central contribution of this thesis is therefore not merely diagnostic: it is to insist that the question of what knowledge counts, who is authorized to produce it, and in whose image accountability is designed is not a technical problem amenable to better M&E frameworks, but a political one that requires a fundamental redistribution of epistemic and financial power in the humanitarian sector.
 
 
@@ -29,7 +29,7 @@ Dismantling this assumption requires institutional donors to invest in relations
 Milestone agreements, in which local organizations work autonomously and report only at agreed-upon project junctures, represent a step in this direction, but must be extended beyond the organizations that are already "well known" @InterviewUSAID to those that have historically been excluded from the sector's inner networks precisely because they refused to perform compliance.
 
 Third, the structural reforms above must create genuine space for what Sankofaism offers: a return to and reinvestment in indigenous knowledge management practices that the current system has systematically devalued.
-Where the Catalyst Model succeeds, it does so not by introducing new frameworks but by removing the demand for standardized, ordered comprehension that forces local humanitarians away from the "real richness" of their cultural ways of knowing @InterviewFunder.
+Where the Catalyst Approach succeeds, it does so not by introducing new frameworks but by removing the demand for standardized, ordered comprehension that forces local humanitarians away from the "real richness" of their cultural ways of knowing @InterviewFunder.
 Following Sankofaism's logic of building a future authentically grounded in community practice @MdhuliKM[p. 3], donors should actively resist the impulse to fill the space vacated by reporting requirements with alternative Western frameworks.
 The goal is not replacement but withdrawal: creating the structural conditions for local knowledge systems to re-emerge on their own terms, as the foundation from which community-rooted humanitarian action is designed, implemented, and evaluated.
 
@@ -61,7 +61,7 @@ Applying Cynefin® to analyze domain misalignment, for instance, reveals the str
 Readers should understand these frameworks as productive entry points into the problem rather than exhaustive explanations of it.
 
 Finally, this research reflects a moment in time.
-The humanitarian sector is not static: the period in which this study was conducted has seen intensifying debate about localization, growing donor acknowledgement of intermediary inefficiency, and the emergence of funding models---such as the Catalyst Model examined here---that explicitly contest dominant logics.
+The humanitarian sector is not static: the period in which this study was conducted has seen intensifying debate about localization, growing donor acknowledgement of intermediary inefficiency, and the emergence of funding models---such as the Catalyst Approach examined here---that explicitly contest dominant logics.
 The findings reported here may already be in partial motion; the sector's power dynamics are contested, and future configurations may look different.
 This is not a limitation so much as a reminder that the critique offered here is addressed to a moving target, and that structural change---however slow---is possible.
 
@@ -70,23 +70,23 @@ This is not a limitation so much as a reminder that the critique offered here is
 The limitations above are simultaneously invitations.
 Each gap in this study points toward a productive site for future research.
 
-The most immediate extension is comparative: applying the same analytical framework---domain misalignment, communicative disenfranchisement, and the Catalyst Model as an alternative---across multiple National Societies or community-based organizations in different geographic and post-colonial contexts.
+The most immediate extension is comparative: applying the same analytical framework---domain misalignment, communicative disenfranchisement, and the Catalyst Approach as an alternative---across multiple National Societies or community-based organizations in different geographic and post-colonial contexts.
 Such comparative work would allow researchers to distinguish between dynamics that are structural features of the Global North humanitarian architecture and those that are specific to the Timorese context.
 It would also surface the full range of ways in which local organizations navigate, resist, and adapt to reporting demands---a diversity of strategies that a single case study cannot capture.
 
 A longitudinal dimension is equally pressing.
 This study documents a moment of tension and nascent change; what is missing is evidence of trajectory.
 Do organizations that adopt direct-funding models over time demonstrate measurably different outcomes in staff retention, community trust, or program effectiveness?
-Do practitioners who work within the Catalyst Model eventually reconstitute indigenous knowledge management practices, or do the residual habits of compliance persist?
+Do practitioners who work within the Catalyst Approach eventually reconstitute indigenous knowledge management practices, or do the residual habits of compliance persist?
 These are empirical questions that require time and sustained engagement to answer.
 
 There is also significant analytical work to be done at the policy level.
 The Cynefin® framework, adapted here as a diagnostic tool for analyzing reporting system design, could be operationalized into a practical instrument for donor policy reform---a framework for auditing existing accountability mechanisms against the domain logic they presuppose and the domains in which they are deployed.
 Such an instrument would give institutional donors and INGOs a concrete, non-ideological entry point for identifying where their systems are structurally misaligned with the realities their partners navigate, potentially opening space for dialogue that does not require participants to first accept the full weight of the colonial critique.
 
-Sankofaism and the Catalyst Model, while theoretically generative, remain underdeveloped as operational frameworks.
+Sankofaism and the Catalyst Approach, while theoretically generative, remain underdeveloped as operational frameworks.
 What does Sankofaism look like in practice across different cultural contexts in which indigenous knowledge management takes forms distinct from those documented here?
-What institutional conditions are required for the Catalyst Model to scale without itself being captured by the logic it seeks to displace?
+What institutional conditions are required for the Catalyst Approach to scale without itself being captured by the logic it seeks to displace?
 These questions call for collaborative research between practitioners and scholars---research that is itself structured by the principles it advocates, produced from within communities rather than about them.
 
 Finally, this study identifies a clear gap in the @tcd literature: while the theory was developed in organizational contexts in the Global North, its application here to the donor-implementer relationship in international humanitarian work reveals its purchase on structural power dynamics that extend well beyond its original scope.

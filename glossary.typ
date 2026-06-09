@@ -14,6 +14,7 @@
   (key: "oecd",  short: "OECD",  long: "Organisation for Economic Co-operation and Development"),
   (key: "tcd",   short: "TCD",   long: "Theory of Communicative Disenfranchisement"),
   (key: "un",    short: "UN",    long: "United Nations"),
+  (key: "usaid", short: "USAID", long: "United States Agency for International Development"),
 )
 
 // ─── Key Concepts / Definitions ──────────────────────────────────────────────
@@ -129,13 +130,18 @@
     description: [The structural tendency of standardised reporting systems to impose rigid, linear formats onto complex and context-specific knowledge, forcing nuanced field realities into pre-defined bureaucratic categories.],
   ),
   (
+    key: "orientalism",
+    short: "Orientalism",
+    description: [Popularized by Dr. Edward W. Said, "a style of thought based upon an ontological and epistemological distinction made between 'the Orient' and (most of the time) 'the Occident'" @said1978orientalism[p. 10]; European imaginations of people, space, and power]
+  ),
+  (
     key: "orientation-versus-agency",
     short: "Orientation versus Agency",
     description: [A distinction drawn by Johar where agency is the capacity to pursue an end, whereas orientation is the deeper capacity to discover, revise, and be claimed by what ends are worth pursuing @JoharGoalCodedSystemsCrisis. Local humanitarian workers are argued to be denied orientation by donor-driven goal-coded systems.],
   ),
   (
     key: "the-west-versus-the-east",
-    short: "The West versus the East/the Rest",
+    short: "The West versus the East/the Rest/the Orient",
     description: [An ideological and hegemonic sociopolitical distinction that falsely touts human values like freedom and rationality as exclusively Western @khanHowWeClassify[p. 2].],
   ),
   (

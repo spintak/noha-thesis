@@ -22,7 +22,7 @@ Every interview conducted noted that these reporting tools cannot be implemented
 From observation, repeated training sessions are held in an effort to socialize the staff to these tools, and there is a clear emphasis on the importance of compliance with donor requirements in these trainings.
 The need for constant and repetitive training sessions to socialize the staff to these tools is a clear indication of the disconnect between the preferred practices of local humanitarians and the standardized reporting mechanisms that are being imposed on them.
 "I always prefer to communicate verbally first to our supervisor and then last we make it in the email so when we communicate we ensure that he knows what happened," explained a @cvtl officer @InterviewCVTLofficer.
-One @cvtl staff member noted that field officers often complain of being "too busy" to complete reporting requirements @InterviewERstaff and the USAID interviewee validated the "intense" "administrative burdens" @InterviewUSAID.
+One @cvtl staff member noted that field officers often complain of being "too busy" to complete reporting requirements @InterviewERstaff and the @usaid interviewee validated the "intense" "administrative burdens" @InterviewUSAID.
 
 
 === Ordered Bias in Reporting Mechanisms
@@ -37,7 +37,7 @@ The communication chasm between @cvtl and the donors may be understood, in part,
 
 "Our brain is not like a computer in such an ordered way. Things come in different ways and so sometimes the mixed information makes it difficult to write a good report," explained one @cvtl staff member @InterviewCVTLmanager.
 
-The persistance of the demands for ordered mechanisms of reporting has resulted in "fatigue" among the local humanitarian workers, explained the USAID interviewee.
+The persistance of the demands for ordered mechanisms of reporting has resulted in "fatigue" among the local humanitarian workers, explained the @usaid interviewee.
 They noted that donors often operate in multiple countries, and so:
 #quote(block: true, attribution: [@InterviewUSAID])[ "They want to have a unified system for reporting so that they can take all this information and aggregate it together. 
 This was classic USAID or World Bank or many of the other agencies. 
@@ -46,13 +46,13 @@ So the partners can sometimes get a little bit fatigued by this because, you kno
 
 The "administrative burden" @InterviewUSAID can often eclipse the purpose of the project and, as noted earlier by Johar, the "goal-coded system" results in a "crisis of orientation" @JoharGoalCodedSystemsCrisis. 
 Humanitarians put their administrative efforts into tracking easily identifiable elements, like indicators, while information that is less quantifiable or dependent on a longer time-frame is overlooked @InterviewARC @InterviewERstaff @InterviewUSAID @InterviewCVTLmanager.
-Tracking the more simple and quantitative data (like number of meeting attendees, amount of fliers distributed, etc.) is also a "really easy for them to prove that they’re using the funds in an accountable way through the indicators", noted the USAID interviewee @InterviewUSAID.
+Tracking the more simple and quantitative data (like number of meeting attendees, amount of fliers distributed, etc.) is also a "really easy for them to prove that they’re using the funds in an accountable way through the indicators", noted the @usaid interviewee @InterviewUSAID.
 But in terms of project effectiveness, there is often an imbalance in the amount of effort put into tracking outputs and indicators versus outcomes.
 "Trying to capture whether a community is stronger or an organisation is stronger is the outcome level where the complexity comes in. I think it’s the sort of outcome level more evaluative questions that are more likely to come in friction", explained one of the ARC interviewees @InterviewARC.
 This places managerial and supervisory national staff in a particularly precarious position: they must simultaneously satisfy the reporting demands of donors while compensating for the incomplete work of their lower-level officers, absorbing the additional administrative steps themselves rather than delegating them down the chain.
 While officers and volunteers may excel at tracking quantitative information like indicators, outputs, and activities on the mandated forms, one managerial staff member at @cvtl expressed frustration at the limited reports they receive that identify results and outcomes @InterviewCVTLmanager.
 
-"Monitoring these kinds of things and reading between the lines for quarterly and annual reports was a constant exercise to try and figure out well like what is actually going on," noted the USAID interviewee who often relied on "a little insider information. But that's not systematic, right? That's all just very kind of anecdotal, and if you're lucky, you get it, and more often, most of the time, you don't" @InterviewUSAID.
+"Monitoring these kinds of things and reading between the lines for quarterly and annual reports was a constant exercise to try and figure out well like what is actually going on," noted the @usaid interviewee who often relied on "a little insider information. But that's not systematic, right? That's all just very kind of anecdotal, and if you're lucky, you get it, and more often, most of the time, you don't" @InterviewUSAID.
 The intangible nature of success leaves so much room for interpretation that in order to justify the funds spent, report writing frequently stretches the correlative relationship between a project and outcomes @InterviewUSAID. 
 
 #quote(block: true, attribution: [@InterviewUSAID])[ 
@@ -93,7 +93,7 @@ This dynamic lays bare what the language of humanitarian coordination routinely 
 The term _partner_---ubiquitous in donor agreements, program documents, and institutional rhetoric---implies a horizontal relationship defined by mutual respect and shared decision-making authority.
 Within @tcd, the word functions as a hegemonic ideological construct: sustaining the fiction of collaboration while simultaneously concealing its coercive conditions, and shifting any critique of the arrangement from a structural question of power to an interpersonal failure on the part of the local organization.
 In practice, however, the power asymmetry is profound: donors control funding, set reporting requirements, define success metrics, and reserve the right to exit.
-"The nice way to say it would be ‘partner’ but from a legal standpoint it’s a grantee or it’s a contractor," explained the USAID interviewee @InterviewUSAID.
+"The nice way to say it would be ‘partner’ but from a legal standpoint it’s a grantee or it’s a contractor," explained the @usaid interviewee @InterviewUSAID.
 Local organizations, by contrast, absorb the administrative burden, adapt their internal systems to external demands, and ultimately depend on continued donor approval for their operational survival.
 Calling this a partnership does not make it one.
 
@@ -104,9 +104,11 @@ Even "localization" efforts are built upon and perpetuate this power imbalance.
 Localizing can take the form of international organizations from the Global North setting up country or regional offices @doaneINGOProblem2024[p. 25]. "Not only did this form of localizing potentially displace funding away from local organizations---there is some anecdotal evidence showing that rather than growing the space" @doaneINGOProblem2024[p. 93] the presence of these representatives from the Global North "effectively cannibalizing the sector, rather than adding value" @doaneINGOProblem2024[p. 26].
 
 Localization can also refer to the intention of involving local actors into project design, implementation, and evaluation.
-While this approach may sound more egalitarian, the USAID officer interviewed admitted that in actuality INGOs often treat it as "a hand-holding exercise" to assist a local organization to "build up their capacity" once they were deemed to reach a suitable level of competency @InterviewUSAID.
+While this approach may sound more egalitarian, the @usaid officer interviewed admitted that in actuality INGOs often treat it as "a hand-holding exercise" to assist a local organization to "build up their capacity" once they were deemed to reach a suitable level of competency @InterviewUSAID.
 #quote(block: true, attribution: [@InterviewUSAID])["We used to joke in USAID that our job was to work ourselves out of a job, right. You would hope, but not under this situation only the most truly altruistic person wants to actually work themselves out of the job---especially if you've got kids, you've got a mortgage, and all these things. So you have a certain self-interest in seeing _these_ kinds of localization efforts continue. Because if you say, 'oh, well, they can do it on their own now,' well now what do _we_ do? But if you say, 'well, they made some real improvements in this area but they've got serious gaps here so what we really need to do is refocus the money on this area where we feel they're still super weak,'there's your justification!"]
-This is not a system failing at the margins; it is a system working exactly as designed. 
+This is not a system failing at the margins; it is a system working exactly as designed by the Global North. To quote the incomparable Dr. Edward Said, "In a quite constant way, Orientalism depends for its strategy on this flexible positional
+superiority, which puts the Westerner in a whole series of possible relationships with the Orient
+without ever losing him the relative upper hand" @said1978orientalism[p. 15]
 The question becomes not how to reform individual actors but how to build approaches that do not require their altruism.
 The following section draws on emergent practice and theoretical interventions to consider what such a response might look like.
 
@@ -129,7 +131,7 @@ In fact, direct funding to local intermediaries and organizations "can deliver p
 So why is money still being funneled through these intermediaries?
 The legecy of colonial power dynamics and the narratives of mistrust that justify the need for INGOs to act as intermediaries and gatekeepers of knowledge production continue to perpetuate this system, even in the face of evidence that it is not the most effective way to support affected communities.
 Doane argues that it is the responsibility of these institutions holding privilege to recognize their perpetuation of colonial, racial dynamics and to take active steps to make space for the local humanitarians and the communities served @doaneINGOProblem2024.
-While "milestone agreements", what the USAID interviewee explained as funding arangements where local organization "just kind of goes out and does it work" and is only required to report back to the donor once they have reached a specific, pre-defined point in the project, already exist in practice but are far from common. 
+While "milestone agreements", what the @usaid interviewee explained as funding arangements where local organization "just kind of goes out and does it work" and is only required to report back to the donor once they have reached a specific, pre-defined point in the project, already exist in practice but are far from common. 
 Although the administrative burden is reduced, these arangements are only granted by large institutional donors to the local organizations that are "well known" and in which there is already "a certain amount of faith and trust" @InterviewUSAID suggesting a history of success navigating the Humanitarian Industrial Complex.
 The founder interviewed basis their funding tructure similarly but with greater emphasis on refusing to "reinvent the wheel" or "push down" reporting requirements onto local partners @InterviewFunder.
 Instead, they rely on relationship-building to vet local practitioners who then provide receipts and "progress reports on a volunteer basis" rather than as a mandated, rigid exercise @InterviewFunder.
@@ -137,10 +139,10 @@ This approach is intentional: by resisting the imposition of Western bureaucrati
 By identifying existing organizations to offer direct funding, the foundation aims to "enhance what they [the local organization] are doing and become more like a catalyst" by supporting the ways in which they are already working @InterviewFunder.
 "We do not want to ever change their value system, their culture, because that's where the real richness come from. We believe in absolute pluralism. We don't believe that a garden should only have one kind of flowers. We don't go through bureaucracy and make it difficult for people." @InterviewFunder.
 
-This Catalyst Model is an operational and relational approach for reform founded on Sankofaism @MdhuliKM, what Escobar envisions as grassroots "return to culture" movements @escobarEncounteringDevelopment[p. 14]: rather than treating local knowledge and practices as deficits to be corrected through standardized frameworks, this approach positions them as the generative foundation---catalyzing what communities already possess and their indigenous realities rather than supplanting it with diagnoses and prescription from Global North evaluators.
+This Catalyst Approach is an operational and relational approach for reform founded on Sankofaism @MdhuliKM, what Escobar envisions as grassroots "return to culture" movements @escobarEncounteringDevelopment[p. 14]: rather than treating local knowledge and practices as deficits to be corrected through standardized frameworks, this approach positions them as the generative foundation---catalyzing what communities already possess and their indigenous realities rather than supplanting it with diagnoses and prescription from Global North evaluators.
 Where mainstream donors extract local organizations into the logic of the Humanitarian Industrial Complex through bureaucratic burdens like reporting requirements and conditionality, this model is an approach for project design to be built from the ground up by the actual humanitarians in and from the contexts in question, the ones the direct funder recognizes as having "skin in the game" @InterviewFunder.
-The Catalyst Model provides the structural space required for Sankofaism to flourish, without imposing any one cultural norm, in promotion of enfranchisement of local humanitarian practitioners. 
-By removing the the relentless donor demand for standardized, 'ordered' comprehension, the Catalyst Model allows local practitioners the freedom to step away from their desks and engage in the "renaissance launch pad" of Sankofaism, building a future that is authentically grounded in their community's "treasured past" that continues to inform their current behaviors and practices @MdhuliKM[p. 3].
+The Catalyst Approach provides the structural space required for Sankofaism to flourish, without imposing any one cultural norm, in promotion of enfranchisement of local humanitarian practitioners. 
+By removing the the relentless donor demand for standardized, 'ordered' comprehension, the Catalyst Approach allows local practitioners the freedom to step away from their desks and engage in the "renaissance launch pad" of Sankofaism, building a future that is authentically grounded in their community's "treasured past" that continues to inform their current behaviors and practices @MdhuliKM[p. 3].
 
 #[
 #set par(justify: false)
@@ -154,7 +156,7 @@ By removing the the relentless donor demand for standardized, 'ordered' comprehe
     table.header(
       [],
       [*Sankofaism*],
-      [*Catalyst Model*],
+      [*Catalyst Approach*],
     ),
     table.hline(stroke: 0.6pt),
     [*Primary Focus*],
@@ -171,7 +173,7 @@ By removing the the relentless donor demand for standardized, 'ordered' comprehe
     [Bureaucratic burden and ordered bias],
     table.hline(stroke: 1.2pt),
   ),
-  caption: [Sankofaist foundation of the Catalyst Model],
+  caption: [Sankofaist foundation of the Catalyst Approach],
 ) <tab:sankofaism-catalyst>
 ]
 

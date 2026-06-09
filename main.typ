@@ -20,8 +20,20 @@
 
 // ─── Frontmatter — roman numerals ────────────────────────────────────────────
 
-// Blank verso of title page (not numbered)
-#page(numbering: none)[]
+// Epigraph verso of title page (not numbered)
+#page(numbering: none)[
+  #v(1fr)
+  #align(center)[
+    #block(width: 70%)[
+      #set text(style: "italic")
+      "Perhaps the most important task of all would be to undertake studies in contemporary alternatives to Orientalism, to ask how one can study other cultures and peoples from a libertarian, or a nonrepressive and nonmanipulative, perspective. But then one would have to rethink the whole complex problem of knowledge and power."
+
+      #v(1em)
+      #align(right)[— Dr. Edward W. Said @said1978orientalism[p. 35]]
+    ]
+  ]
+  #v(2fr)
+]
 
 #set page(numbering: "i", number-align: right)
 #counter(page).update(1)
@@ -50,8 +62,6 @@
 
 #heading(level: 1, numbering: none, outlined: true)[List of Figures]
 #outline(title: none, target: figure.where(kind: image))
-
-#pagebreak()
 
 #heading(level: 1, numbering: none, outlined: true)[List of Tables]
 #outline(title: none, target: figure.where(kind: table))
