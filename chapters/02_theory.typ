@@ -23,49 +23,6 @@ A primary limitation of the literature review strategy is its linguistic boundar
 The limited existing literature specifically about humanitarian work reflects the need for a focused investigation into how Global North metrics function as a mechanism of communicative disenfranchisement for practitioners in contexts like Timor-Leste.
 
 
-== Key terms and concepts
-
-=== Abbreviations
-
-/ CVTL: Cruz Vermelha de Timor-Leste: the Red Cross National Society of Timor-Leste
-/ DT: Disenfranchising Talk: a construct within TCD referring to communicative practices that sustain hegemonic ideologies through discrediting, silencing, and stereotyping
-/ ICRC: International Committee of the Red Cross: Geneva-based humanitarian organization established through mandates from the Geneva Conventions for the promotion of humanitarian norms and values and protection of victims of armed conflict
-/ IFRC: International Federation of Red Cross and Red Crescent Societies: Geneva-based humanitarian organization that oversees the development of the National Societies across the world and coordinates large-scale disaster response
-/ INGO: International Non-Governmental Organisation: typically Global North-based organisations that act as intermediaries between major donors and local implementing partners
-/ KM: Knowledge Management: the processes of collecting, storing, and disseminating information
-/ OECD: Organisation for Economic Co-operation and Development: Signed into existence as the OECD in Paris, 1960 @oecd_about; born out of post-war reconstruction efforts in Europe through the Marshall Plan, the OECD's initial incarnation was as the Organisation for European Economic Cooperation "formed to administer American and Canadian aid" @oecd_about and "address the complexities of a globalized economy" @gordon2023oecd; "primary objectives include promoting sustainable economic growth, aiding the development of underdeveloped nations, and encouraging open trade policies" @gordon2023oecd; critics argue the OECD’s "ideologically biased" advice is "strongly influenced by 'neo-liberal' thinking" and intended for "restoring the hegemony of capital over labor," reflecting a "politically conservative vision of economics" that uses 'soft powers' to contribute to the construction of a neoliberal world order" @bergh2017oecd; 
-/ TCD: The Theory of Communicative Disenfranchisement: a theoretical framework developed by Hintz and Sharp explaining how groups are systematically excluded from communicative practices that shape discourse and policy
-/ UN: United Nations: intergovernmental organization created in 1945 to "maintain international peace and security, protect human rights, deliver humanitarian aid, promote sustainable development, uphold international law" @UNhomepage; main headquarters in New York and regional bases in Geneva, Vienna, and Nairobi
-
-
-=== Terms and concepts
-/ Accountability to affected populations: The commitment of humanitarian actors to be answerable to the people they serve, ensuring that communities have a voice in decisions affecting them and can provide feedback or lodge complaints
-/ Beneficiaries versus providers: A dichotomy perpetuated by the aid industry where relations only exist between beneficiaries--receivers of resources--and providers--givers of resources; "beneficiaries" are often treated as numerical targets beholden to the priorities and conditions of "providers" @khanHowWeClassify[p. 3]
-/ Bureaucratization of knowledge: Dr. Arturo Escobar's term identifying the practices of institutions in professionalizing discourses about the 'Third World' into standardized, manageable, and technical categories; in this case study, concerns the standardization and technocratization of knowledge through formal reporting requirements, whereby complex local realities are reduced to quantifiable metrics and donor-defined "client categories" @escobarEncounteringDevelopment[p. 106]
-/ Communicative disenfranchisement: The process by which communication results in the deprivation of a person's rights and privileges; in the humanitarian sector, this manifests as the marginalization of local workers in  knowledge production @hintzsharpeTCD
-/ Custodians of Comprehension vs. Catalysts for Transformation: A distinction from Johar used to contrast workers reduced to form-filling compliance--- "custodians"---with those empowered to create meaningful change---"catalysts" @JoharCatalyst
-/ Decoloniality: The theoretical and political project of dismantling the enduring colonial logics, epistemologies, and power structures that persist beyond formal political independence; premised on the recognition that coloniality---the ongoing suppression of local knowledges, languages, and beliefs in favor of Western frameworks---remains embedded in contemporary institutions @WDF2026, including in the humanitarian sector 
-/ Developmentalism: The pursuit of economic growth and "the distribution of the benefits of growth" to "solve the social and economic problems of these parts of the world" classified as "Third World"/"developing nation"/Global South @escobarEncounteringDevelopment[p. 5]; formulated upon the "spatial power" from the division of "imaginative geographies" (Said as cited by @escobarEncounteringDevelopment[p. 9]) where nations are labeled "First and Third World, North and South, center and periphery" @escobarEncounteringDevelopment[p. 9] and these "forms of power in terms of class, gender, race, and nationality thus found their way into development theory and practice. The former do not determine the latter in a direct causal relation; rather they are the development discourse’s formative elements" @escobarEncounteringDevelopment[p. 43]; prioritization of "Western-style democracy as the end point of development" resulting in an "emphasis on the immediate need for order and efficiency" @manzoModernist[p. 4] in the intervation and management of "developing" nations' political, economic, and cultural affairs
-/ Developed versus developing countries: Originating in the 1960s for the transfer of resources from economically rich to poor nations, this term implies that "developed" countries have reached their full potential and suggests there is only one universal way to be developed @khanHowWeClassify[p. 2]; 
-/ Documentary reality: A term coined by Dr. Dorothy Smith referring to the institutional reliance on textual and documentary forms as a means of representing reality, inevitably detached from the local historical context of the experiences they purport to represent @escobarEncounteringDevelopment[p. 146]
-/ Do no harm: A foundational principle requiring that interventions---including technological ones---must not cause unintended harm to affected populations; derived from medical ethics and formalized in humanitarian practice
-/ Epistemological chauvinism: Anthropologist John Bousfield's term for the privileging of Western 'scientific' knowledge as inherently superior to local, tacit, or oral knowledge @sillitoeetalParticipatingDevelopmen[p. 240]; the ideological foundation that dismisses local expertise as anecdotal or unreliable; epistemological, as defined by Hintz and Sharpe, as "concerned with the recognition of knowledge" as well as "what counts as knowledge, and whose knowledge counts" @hintzsharpeTCD[p. 91]
-/ First World versus Third World: A post-WW2 theoretical classification embedded with racism through hierarchy, structured around the "backwardness" of the "Third World" @khanHowWeClassify[p. 2] and the superiority of the "First World"; a structure treating the "individual nation-state in the Third World as the sovereign subject of development" @manzoModernist[p. 3] 
-/ Global North versus Global South: Emerging in the 1980s, these terms indicate divisions based on access to wealth, political power, and participation in Western culture. Despite being geographically inaccurate--- with countries like Australia falling under the classification of Global North despite existing geographically in the southern hemisphere---these terms are less problematic in comparison to other "dichotmous terminologies" used in the humanitarian and development sectors  @khanHowWeClassify[p. 2] but continue to perpetuate the "social production of space implicit in these terms" "bound with the production of differences, subjectivities, and social orders" @escobarEncounteringDevelopment[p. 9] through "imaginative geographies" (Said as cited by @escobarEncounteringDevelopment[p. 9])
-/ Goal-Coded Systems: A concept from Indy Johar describing systems whose operative purpose arrives from outside---prompted, benchmarked, and evaluated by external frames---leading to a "crisis of orientation" for those operating within them @JoharGoalCodedSystemsCrisis
-/ Humanitarian: A person engaged in efforts to "prevent and alleviate human suffering", particularly "in times of armed conflict and other emergencies" @IFRCprinciples[p. 2]
-/ Humanitarian Principles: The four core principles guiding humanitarian action: humanity, neutrality, impartiality, and independence. Established by the International Committee of the Red Cross (ICRC) and endorsed by the United Nations (UN)
-/ Indigenous: Historically belonging to the location in question; in the context of this thesis, "To avoid incessant definitional arguments, most anthropologists now use local knowledge (LK) and traditional knowledge (TK) as synonymous with indigenous knowledge (IK)" @sillitoeetalParticipatingDevelopmen[p. 27]
-/ Local versus international: Within the aid industry, "international" is used to refer to organizations and institutions overseeing projects across the world but often based in the Global North, while "local" often concerns a location in the Global South. While perhaps technically accurate, racial connotations may be carried when in reference to people and capacity: "'local’ often has derogatory connotations (eg, a local working in their ‘poor’ country is juxtaposed with and considered inferior to the ‘expat’ or international expert from a rich country"  @khanHowWeClassify[p. 2]
-/ Localization: A donor-promoted concept referring to the transfer of decision-making power and resources to local organisations; critiqued in this thesis as largely rhetorical, undermined by the very reporting structures imposed on local 'partners'
-/ Modernization: The "adoption of the 'right' values, namely those held by the white minority... and, in general, those embodied in the ideal of the cultivated European" through political restructuring @escobarEncounteringDevelopment[p. 43], industrialization, and transformation of socio-cultural practices; entirely analagous with "conceptual categories and Western assumptions" @manzoModernist[p. 3]
-/ Myth of the Lazy Native: A concept from Dr. Syed Hussein Alatas describing the colonial ideology that portrayed native populations as lacking capacity and work ethic in order to justify exploitation and domination @alatasMythLazyNative ---a legacy argued to persist in current INGO paternalism toward organizations and humanitarians from the Global South
-/ Ordered Bias: The structural tendency of standardised reporting systems to impose rigid, linear formats onto complex and context-specific knowledge, forcing nuanced field realities into pre-defined bureaucratic categories
-/ Orientation versus Agency: A distinction drawn by Johar where agency is the capacity to pursue an end, whereas orientation is the deeper capacity to discover, revise, and be claimed by what ends are worth pursuing @JoharGoalCodedSystemsCrisis. Local humanitarian workers are argued to be denied orientation by donor-driven goal-coded systems 
-/ The West versus the East/the Rest: An ideological and hegemonic sociopolitical distinction that falsely touts human values like freedom and rationality as exclusively Western @khanHowWeClassify[p. 2]
-/ White Gaze: A term used by Shallwani and Dossa to describe how Whiteness is established as the norm in development and humanitarian evaluation, determining what counts as valid knowledge and evidence while framing Global South populations in terms of deficit @EvaluationWhiteGaze
-
-
 == Conceptual frameworks
 === The Cynefin® Framework
 The Cynefin® framework was "designed to manage anthro-complexity, or complexity in human systems" @CynefinFieldGuideActual[p. 57] with origins in the workd of corporate business. However, its focus on times of crisis and uncertainty makes it a useful tool for understanding the challenges of knowledge management in humanitarian contexts. 
@@ -75,6 +32,21 @@ The Cynefin® framework identifies three types of systems:
   + "Ordered systems in which cause and effect relationships are either clear or discoverable through analysis;
   + Complex systems in which the only way to understand the system is to interact;
   + Chaotic systems in which turbulence prevails and immediate stabilizing action is required"]
+
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 1em,
+  figure(
+    image("/assets/Cynefin.png", height: 8cm),
+    caption: [The Cynefin® framework @Cynefin]
+  ),
+  figure(
+    image("/assets/Cynefin Framework diag 2.png", height: 8cm),
+    caption: [Movement through Cynefin® framework @Cynefin]
+  ),
+)
+
+#v(1em)
 
 These systems are then mapped to the five domains, decision logics that guide how to navigate and manage the system:
 #quote(block: true, attribution: [@CynefinUmbrex[p. 2]])[
@@ -103,7 +75,7 @@ Another limitation is that as participants reflect on past reporting challenges,
 The findings from the thesis research through this len, however,must be viewed through the lens of "bounded applicability," recognizing that the insights derived from this case study may not be universally generalizable but can offer valuable perspectives for similar contexts and contribute to broader theoretical discussions in the field of humanitarian knowledge management @CynefinFieldGuideActual[p. 60].
 
 === The Theory of Communicative Disenfranchisement
-To understand the friction between Global North reporting and local field wisdom, the Theory of Communicative Disenfranchisement (TCD) provides a useful framework.
+To understand the friction between Global North reporting and local field wisdom, @tcd provides a useful framework.
 Dr. Elizabeth A. Hintz and Dr. Kristina M. Sharp developed this theory to explain how certain groups are systematically excluded from participating in communicative practices that shape public discourse and policy-making @hintzsharpeTCD. 
 In the context of humanitarian work, local humanitarians in the Global South may experience communicative disenfranchisement when their voices and perspectives are marginalized in the reporting processes that are designed to meet the expectations of Global North donors. 
 This theory helps to illuminate the power dynamics at play in knowledge production and the ways in which local humanitarians may be excluded from shaping the narratives and policies that affect their work and the communities they serve.
@@ -111,27 +83,31 @@ This theory helps to illuminate the power dynamics at play in knowledge producti
 "Communicative disenfranchisement (CD), then, is the process by which communication results in deleterious outcomes, such as the deprivation of a person’s rights and privileges. Our focus on talk reflects our assumption that language constitutes reality, and therefore, that talk constitutes ideology... talk is construed broadly to refer to the ideological micropractices (e.g., interpersonal interactions, visual imagery, memes, and media messages) that constitute daily life and reflect informal, localized operations of power."]
 
 In the humanitarian sector, the "talk" of the donor—mandated procedures and practices like use of digital dashboards, log frames, and quarterly reports— all functioning as a site for the operation of ideological power. 
-TCD shifts the analytical focus away from "bad apple" individuals and toward the "upstream" conditions that make disenfranchisement possible, specifically the hegemonic social norms that dictate what knowledge is valued and what is dismissed as "noise" @hintzsharpeTCD[p. 90].
+@tcd shifts the analytical focus away from "bad apple" individuals and toward the "upstream" conditions that make disenfranchisement possible, specifically the hegemonic social norms that dictate what knowledge is valued and what is dismissed as "noise" @hintzsharpeTCD[p. 90].
 In the context of humanitarian activities, disenfranchisement is not merely the loss of a vote, but the systematic deprivation of the right to be a "knower" within one's own professional and cultural domain.
 
-The first proposition of TCD asserts that Hegemonic Ideologies are both reflected and constructed in Disenfranchising Talk (DT).
-In the case of CVTL, the primary hegemonic ideology is Western 'scientific' knowledge management (KM).
+The first proposition of @tcd asserts that Hegemonic Ideologies are both reflected and constructed in @dt.
+In the case of @cvtl, the primary hegemonic ideology is Western 'scientific' @km.
 This is the foundational belief that formal, codified knowledge is inherently superior to local, tacit knowledge, and that the former is absolutely necessary for accountability and effective decision-making in humanitarian work.
-This ideology creates a "geopolitical imagination" where Global North standards are the universal benchmark, forcing the complex social logic of Timorese communities into the ordered bureaucratic checkboxes of donor reporting requirements (Edward Said as cited in @escobarEncounteringDevelopment[p. 9]).
-Dt operates through three types of functions that sustain this hegemony:
-+ Discrediting: DT delegitimizes local knowledge and expertise by framing it as unscientific, anecdotal, or irrelevant to the goals of humanitarian work. 
+This ideology creates a "geopolitical imagination" where Global North standards are the universal benchmark, forcing the complex social logic of Timorese communities into the ordered bureaucratic checkboxes of donor reporting requirements (Edward Said as cited in @escobarEncounteringDevelopment[p. 9]). // TODO: fix this
+@dt operates through three types of functions that sustain this hegemony:
++ Discrediting: @dt delegitimizes local knowledge and expertise by framing it as unscientific, anecdotal, or irrelevant to the goals of humanitarian work. 
   This can lead to a devaluation of the lived experiences and insights of local humanitarians, reinforcing the notion that they are not legitimate knowers in their own right.
   Epistemological chauvinism is established when metrics contest the validity of local knowledge, and the truth is determined by what can be measured and reported to donors.
-+ Silencing: DT suppresses the voices of local humanitarians by creating barriers to participation in knowledge production and decision-making processes.
++ Silencing: @dt suppresses the voices of local humanitarians by creating barriers to participation in knowledge production and decision-making processes.
   There is an institutionalized creation of a "documentary reality" (Dorothy Smith as cited in @escobarEncounteringDevelopment), a "reliance on textual and documentary forms as a means of representing and preserving a given reality. Inevitably, texts are detached from the local historical context of the reality they supposedly represent" @escobarEncounteringDevelopment[p. 108].
   Although not confrontational in nature, silencing is a powerful mechanism of disenfranchisement because it operates through the absence of voice and representation, rather than through overt suppression.
   Staff are relegated into a culture of silence where their preference for verbal communication is suppresssed by donor requirements for reports and documentation.
-+ Stereotyping: DT stereotypes through the use of language and imagery that reinforces negative and reductive perceptions of local humanitarians and the communities they serve.
++ Stereotyping: @dt stereotypes through the use of language and imagery that reinforces negative and reductive perceptions of local humanitarians and the communities they serve.
   Systems of reporting reduce complex identities and experiences into simplified "client categories" (like "vulnerable", "malnourished", etc.) that fit the expectations of donors, which can perpetuate harmful stereotypes and undermine the the dignity of those served by humanitarian work.
   Local humanitarians, when forced to adopt the language of donors, may find themselves complicit in the very stereotyping that disenfranchises them, as they are required to frame their work and the communities they serve in ways that align with donor narratives.
   These humanitarians may also be stereotyped by the donors as "incompetent" or "unreliable" if they fail to meet the reporting requirements, further reinforcing the power imbalance and reflective of the archaic colonial attitude of the "Myth of the Lazy Native" @alatasMythLazyNative.
-  The humanitarian sector is, in fact, built upon the "structural racism" that deems humanitarians in the Global South as lacking  capacity and as inherently untrustworthy, which is used to justify the need for INGOs to act as intermediaries and gatekeepers of knowledge production and finances @doaneINGOProblem2024[p. 58].
+  The humanitarian sector is, in fact, built upon the "structural racism" that deems humanitarians in the Global South as lacking  capacity and as inherently untrustworthy, which is used to justify the need for International Non-Governmental Organisations (@ingo) to act as intermediaries and gatekeepers of knowledge production and finances @doaneINGOProblem2024[p. 58].
 
+#figure(
+    image("/assets/TCD Ideology diagram.png", height: 12cm),
+    caption: [Diagram of operations of ideological power @hintzsharpeTCD[p. 93]]
+  ),
 
 == Bureaucratization of Knowledge 
 In their chapter, 'Evaluation and the White Gaze in International Development', authors Sadaf Shallwani and Shama Dossa boldly claim:
@@ -149,6 +125,7 @@ At the 2026 World Decolonization Forum session "The Problem of Knowledge Product
 This obsession with metrics is not just a characteristic of the neoliberal system, but a fundamental aspect of the way that knowledge is produced and valued in the humanitarian sector. 
 At this same forum, Dr. Walter Mignolo, a leading scholar of decolonial theory, proclaimed, "What modernity hides is coloniality. And coloniality is the logic of domination, of appropriation, of exploitation---of diminishing your language and your knowledge and your beliefs" @WDF2026.
 These statements identify the power dynamics that are embedded in the very structure of international institutions, like those that fund, manage, and shape the humanitarian sector.
+
 Prior to the emergence of the humanitarian system, the colonial powers had already established a system of knowledge production that privileged Western ways of knowing and marginalized local knowledge in the colonies: the Mandate System of the League of Nations cemented the origins of the "technologies of management" that are still present today @AnghieImperialism[p. 191].
 The Mandate System was a legal framework that allowed colonial powers to administer territories that were deemed "not yet ready for self-governance" after World War I @AnghieImperialism.
 Although the Mandate System was ostensibly designed to prepare these territories for independence and "sought to ensure their protection" @AnghieImperialism[p. 116], it also established a system of governance that was based on the principles of Western administration and management through "not only a set of rules, but also an entire system that, among other things, would collect information, analyse that information and formulate a policy" @AnghieImperialism[p. 155].
@@ -186,7 +163,7 @@ Who determines the value?
 Who "produces knowledge about the Third World" and "from what spaces"? [Chandra Mohanty as referenced in @escobarEncounteringDevelopment[p. 8]]. The supremacy of Western sense-making has long deemed indigineous knowledge (IK) "as an obstacle to development, while it has been claimed as 'epistemological disenfranchisement' (Odora Hoppers, 2005, p.8, 14), 'defeated knowledge' (Odora Hoppers, 2005, p. 14, 17), and 'subjuated knowledge' (Semali and Kincheloe, 1999, pp. 31-32) in the conventional development doctrime" @sohadMafrollaIntegrating[p. 2261].
 
 Doane explains that one current role of INGOs is to function as intermediaries between larger donors (traditional funders like governments) and the humanitarian organizations to be funded @doaneINGOProblem2024[p. 66]. 
-More often than not, the donors and INGOs are based in the Global North---the governments of European and North American countries, large institutions and organizations like the United Nations, the IFRC, Save the Children, etc.---while the humanitarian organizations that they fund are based in the Global South---community-based organizations, local NGOs, national branches of INGOs, etc.
+More often than not, the donors and INGOs are based in the Global North---the governments of European and North American countries, large institutions and organizations like @un, @ifrc, Save the Children, etc.---while the humanitarian organizations that they fund are based in the Global South---community-based organizations, local @ngo, national branches of INGOs, etc.
 In the name of accountabilty and transparancy, the INGOs manage not only the money funneled to local organizations  but the information moving upwards to donors, as well. 
 Many critics of the sector have pointed to this structure as a key flaw of what they deem the "Humanitarian Industrial Complex" @InterviewFunder.
 Even actors within this system, like former CEO of Oxfam GB, Danny Sriskandarajah, have called out the "political economy based on the trickle-down approach" as "the heart of our business model" @doaneINGOProblem2024[p. 66]. 
@@ -198,6 +175,7 @@ Who is assumed to be trustworthy?
 The INGOs based in the Global North. 
 What results is paternalism fueled by a legacy of colonial power dynamics [Chandra Mohanty as referenced in @escobarEncounteringDevelopment[p. 9]]. 
 The Mandate System of the league of nations was designed to place the former colonies under the "tutelage" of colonial powers @AnghieImperialism[p. 116].
+
 Utilizing the Cynefin framework to "map the landscape of experiences", one identifies the Global North as the "holder of the solution" @CynefinFieldGuideActual[p. 37] in the current structure of the humanitarian system with the Global South positioned as a problem to be solved.
 The "predominant strategic function" of this colonial discourse "is the creation of a space for a 'subject peoples' through the production of knowledge in terms of which surveillance is exercised... in order to justify conquest and to establish systems of administration and instruction" [Chandra Mohanty as referenced in @escobarEncounteringDevelopment[p. 9]].
 Dr. Syed Farid Alatas explains that although current discourse labels the world today as "post-colonial," what is more accurate is the term "neo-colonial" @WDF2026. "This was said by Sukarno in 1955 at the Bandung Conference---that colonialism has not gone away. Neo-colonialism means colonialsm without being politically ruled by Europeans, but in terms of culture, military, political, and intellectual dimensions, we are still very much controlled" @WDF2026.

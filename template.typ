@@ -54,10 +54,9 @@
     par(first-line-indent: 0em)[]
   }
   
-  // Level 1 headings: start on new page, bold
+  // Level 1 headings: bold
   show heading.where(level: 1): it => {
     set text(size: 14pt, weight: "bold")
-    pagebreak(weak: true)
     block(above: 2em, below: 1.5em)[#it]
   }
   

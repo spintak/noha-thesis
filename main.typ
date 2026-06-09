@@ -86,3 +86,4 @@
 #include "appendices/appendix-a.typ"
 #include "appendices/appendix-b.typ"
 #include "appendices/appendix-c.typ"
+#include "appendices/appendix-d.typ"

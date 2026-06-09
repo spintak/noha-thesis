@@ -8,21 +8,21 @@ What type of information can be measured?
 
 == Findings in Relation to the Study Objectives
 The findings of this study will be analyzed in relation to the three main themes through the study objectives:
-1. How do CVTL staff perceive the effectiveness of mandated reporting tools?
+1. How do @cvtl staff perceive the effectiveness of mandated reporting tools?
 2. How do current reporting mechanisms impose an ordered bias?
 3. How do local humanitarian workers navigate the tension between the demand for standardized reporting and the complexity of their lived experiences?
 
 === Perceptions of Mandated Reporting Tools
 Even amongst the Western organizations, there is an acknowledgement of the foreign origins of the reporting tools.
 In an interview with two staff members for international programs at Australian Red Cross (ARC), they admitted that "at the end of the day, these are Western ideas around monitoring and evaluation that are being imposed. These are donor-led. The National Societies, in this context with CVTL, would not be going down this path unless it was for us saying this is a donor requirement" @InterviewARC. 
-The local humanitarians recognize the need to comply with these requirements, not just to secure funding but also to ensure the work is in line with the strategic priorities of the organization and to maintain accountability to the communities served, explained a CVTL staff member @InterviewERstaff.
+The local humanitarians recognize the need to comply with these requirements, not just to secure funding but also to ensure the work is in line with the strategic priorities of the organization and to maintain accountability to the communities served, explained a @cvtl staff member @InterviewERstaff.
 They explained that tools like log frames do serve a day-to-day purpose for their staff and volunteers as responsibilities and tasks are then easy to track and manage @InterviewERstaff.
 Socialization--that is, the process of learning and internalizing the norms and practices--is a key part of how these tools are adopted and used by local humanitarians. 
 Every interview conducted noted that these reporting tools cannot be implemented without the behavioral training, socializing the staff to the preferred practices of the Global North donors and INGOs.
 From observation, repeated training sessions are held in an effort to socialize the staff to these tools, and there is a clear emphasis on the importance of compliance with donor requirements in these trainings.
 The need for constant and repetitive training sessions to socialize the staff to these tools is a clear indication of the disconnect between the preferred practices of local humanitarians and the standardized reporting mechanisms that are being imposed on them.
-"I always prefer to communicate verbally first to our supervisor and then last we make it in the email so when we communicate we ensure that he knows what happened," explained a CVTL officer @InterviewCVTLofficer.
-One CVTL staff member noted that field officers often complain of being "too busy" to complete reporting requirements @InterviewERstaff and the USAID interviewee validated the "intense" "administrative burdens" @InterviewUSAID.
+"I always prefer to communicate verbally first to our supervisor and then last we make it in the email so when we communicate we ensure that he knows what happened," explained a @cvtl officer @InterviewCVTLofficer.
+One @cvtl staff member noted that field officers often complain of being "too busy" to complete reporting requirements @InterviewERstaff and the USAID interviewee validated the "intense" "administrative burdens" @InterviewUSAID.
 
 
 === Ordered Bias in Reporting Mechanisms
@@ -33,9 +33,9 @@ Donor-mandated mechanisms---log frames, standardized indicators, quarterly repor
 Yet humanitarian response itself operates in the Complex and Chaotic domains, where outcomes are uncertain, cause and effect are 'discoverable only in retrospect', and the appropriate logic is to probe and adapt rather than to sense, categorize, and execute @CynefinUmbrex[p. 2].
 This domain misalignment is a structural one: imposing a Clear-domain decision logic upon a Complex or Chaotic situation does not simplify that complexity---it suppresses it, filtering out the contextual, relational, and emergent knowledge that defines effective response.
 Perhaps most telling is the Disorder domain, in which "stakeholders use their preferred methods by default, often talking past each other" @CynefinUmbrex[p. 2]: this captures precisely the disconnect between Global North donors applying ordered-system logic and local humanitarians navigating the complex realities of the field.
-The communication chasm between CVTL and the donors may be understood, in part, as a domain misalignment---a mismatch not of effort or capacity, but of the decision logic being applied to the system.
+The communication chasm between @cvtl and the donors may be understood, in part, as a domain misalignment---a mismatch not of effort or capacity, but of the decision logic being applied to the system.
 
-"Our brain is not like a computer in such an ordered way. Things come in different ways and so sometimes the mixed information makes it difficult to write a good report," explained one CVTL staff member @InterviewCVTLmanager.
+"Our brain is not like a computer in such an ordered way. Things come in different ways and so sometimes the mixed information makes it difficult to write a good report," explained one @cvtl staff member @InterviewCVTLmanager.
 
 The persistance of the demands for ordered mechanisms of reporting has resulted in "fatigue" among the local humanitarian workers, explained the USAID interviewee.
 They noted that donors often operate in multiple countries, and so:
@@ -50,7 +50,7 @@ Tracking the more simple and quantitative data (like number of meeting attendees
 But in terms of project effectiveness, there is often an imbalance in the amount of effort put into tracking outputs and indicators versus outcomes.
 "Trying to capture whether a community is stronger or an organisation is stronger is the outcome level where the complexity comes in. I think it’s the sort of outcome level more evaluative questions that are more likely to come in friction", explained one of the ARC interviewees @InterviewARC.
 This places managerial and supervisory national staff in a particularly precarious position: they must simultaneously satisfy the reporting demands of donors while compensating for the incomplete work of their lower-level officers, absorbing the additional administrative steps themselves rather than delegating them down the chain.
-While officers and volunteers may excel at tracking quantitative information like indicators, outputs, and activities on the mandated forms, one managerial staff member at CVTL expressed frustration at the limited reports they receive that identify results and outcomes @InterviewCVTLmanager.
+While officers and volunteers may excel at tracking quantitative information like indicators, outputs, and activities on the mandated forms, one managerial staff member at @cvtl expressed frustration at the limited reports they receive that identify results and outcomes @InterviewCVTLmanager.
 
 "Monitoring these kinds of things and reading between the lines for quarterly and annual reports was a constant exercise to try and figure out well like what is actually going on," noted the USAID interviewee who often relied on "a little insider information. But that's not systematic, right? That's all just very kind of anecdotal, and if you're lucky, you get it, and more often, most of the time, you don't" @InterviewUSAID.
 The intangible nature of success leaves so much room for interpretation that in order to justify the funds spent, report writing frequently stretches the correlative relationship between a project and outcomes @InterviewUSAID. 
@@ -76,10 +76,10 @@ Where donor systems are engineered to aggregate and compare across countries, th
 
 === Navigating the Tension
 This structure demands its participants to adopt the behaviors and practices of the Global North, justified through the language of ‘professionalization’, ‘accountability,’ and ‘efficiency’.
-Through the framework of Theory of Communicative Disenfranchisement, this language constitutes Disenfranchising Talk (DT): the rhetorical packaging of Western organizational norms as universal professional standards discredits local practices through implication rather than confrontation @hintzsharpeTCD ---not by directly challenging the legitimacy of Timorese ways of working, but by presuming a single, self-evident model of what it means to work "professionally".
+Through the framework of @tcd, this language constitutes Disenfranchising Talk (@dt): the rhetorical packaging of Western organizational norms as universal professional standards discredits local practices through implication rather than confrontation @hintzsharpeTCD ---not by directly challenging the legitimacy of Timorese ways of working, but by presuming a single, self-evident model of what it means to work "professionally".
 Even the ARC staff noted that the "professional persona" expected of the local humanitarians at Red Cross National Societies "is very much informed by models and organizational structures that mirror Western structures" @InterviewARC.
-The silencing function of DT becomes most legible in this moment of enforcement.
-When questioned about potential resistance to the socialization efforts that 'educate' officers and volunteers on institutionally-mandated monitoring and reporting practices, a CVTL staff member noted plainly, "If you don’t want to use this system it means you are not a fit. Maybe it’s not your place to work here" @InterviewCVTLmanager.
+The silencing function of @dt becomes most legible in this moment of enforcement.
+When questioned about potential resistance to the socialization efforts that 'educate' officers and volunteers on institutionally-mandated monitoring and reporting practices, a @cvtl staff member noted plainly, "If you don’t want to use this system it means you are not a fit. Maybe it’s not your place to work here" @InterviewCVTLmanager.
 Resistance is not engaged with and instead rendered disqualifying: the system is not defended on its merits but positioned as a precondition for belonging in the sector.
 The message is not that the system is right, but that questioning it is professionally fatal.
 
@@ -91,7 +91,7 @@ Navigating the system requires a demanding performance over time, it gradually c
 
 This dynamic lays bare what the language of humanitarian coordination routinely obscures: the relationship between donor and local organization is not one of equals.
 The term _partner_---ubiquitous in donor agreements, program documents, and institutional rhetoric---implies a horizontal relationship defined by mutual respect and shared decision-making authority.
-Within TCD, the word functions as a hegemonic ideological construct: sustaining the fiction of collaboration while simultaneously concealing its coercive conditions, and shifting any critique of the arrangement from a structural question of power to an interpersonal failure on the part of the local organization.
+Within @tcd, the word functions as a hegemonic ideological construct: sustaining the fiction of collaboration while simultaneously concealing its coercive conditions, and shifting any critique of the arrangement from a structural question of power to an interpersonal failure on the part of the local organization.
 In practice, however, the power asymmetry is profound: donors control funding, set reporting requirements, define success metrics, and reserve the right to exit.
 "The nice way to say it would be ‘partner’ but from a legal standpoint it’s a grantee or it’s a contractor," explained the USAID interviewee @InterviewUSAID.
 Local organizations, by contrast, absorb the administrative burden, adapt their internal systems to external demands, and ultimately depend on continued donor approval for their operational survival.
@@ -123,7 +123,7 @@ There are already--and have always been--beacons of change working quietly in th
 In contrast to the rigorous reporting requirements of traditional donors and INGOs, there are emerging models of funding and support that prioritize local knowledge, expertise, and power. 
 This founder called out the "limousine liberals"--the industry giants that siphon off funds intended to support work in affected communities @InterviewFunder. 
 Instead, money is allocated to the overhead costs of these Global North institutions and their staff that parachute into communities for short-term projects.
-This founder's accusations are not unwarranted, in fact, the Organisation for Economic Co-operation and Development (OECD) has "finally acknowledged" that "giving through INGOs"---or "fund-emediaries", as some have dubbed them--- "actually costs more" than giving directly to community-based organizations @doaneINGOProblem2024[p. 61]. 
+This founder's accusations are not unwarranted, in fact, @oecd has "finally acknowledged" that "giving through INGOs"---or "fund-emediaries", as some have dubbed them--- "actually costs more" than giving directly to community-based organizations @doaneINGOProblem2024[p. 61]. 
 The overspending is precisely due to the "inflated international overhead and salary costs" that the founder interviewed called out @doaneINGOProblem2024[p. 61].
 In fact, direct funding to local intermediaries and organizations "can deliver programming that is 32% more cost efficient than [through] internatioanl intermediaries" @doaneINGOProblem2024[p. 61].
 So why is money still being funneled through these intermediaries?
@@ -142,6 +142,38 @@ Where mainstream donors extract local organizations into the logic of the Humani
 The Catalyst Model provides the structural space required for Sankofaism to flourish, without imposing any one cultural norm, in promotion of enfranchisement of local humanitarian practitioners. 
 By removing the the relentless donor demand for standardized, 'ordered' comprehension, the Catalyst Model allows local practitioners the freedom to step away from their desks and engage in the "renaissance launch pad" of Sankofaism, building a future that is authentically grounded in their community's "treasured past" that continues to inform their current behaviors and practices @MdhuliKM[p. 3].
 
+#[
+#set par(justify: false)
+#figure(
+  table(
+    columns: (1.4fr, 2fr, 2fr),
+    align: (left + horizon, center + horizon, center + horizon),
+    stroke: none,
+    inset: (x: 8pt, y: 6pt),
+    table.hline(stroke: 1.2pt),
+    table.header(
+      [],
+      [*Sankofaism*],
+      [*Catalyst Model*],
+    ),
+    table.hline(stroke: 0.6pt),
+    [*Primary Focus*],
+    [Epistemological: how knowledge is defined],
+    [Operational: how aid is funded and managed],
+    [*Mechanism*],
+    [Historical continuity of indigenous practices],
+    [Relationship-building (instead of bureaucracy)],
+    [*Stakeholders*],
+    [Community],
+    [Community (including local humanitarians); donors are purely investors],
+    [*Problem Addressed*],
+    [Epistemological disenfranchisement and loss of cultural identity],
+    [Bureaucratic burden and ordered bias],
+    table.hline(stroke: 1.2pt),
+  ),
+  caption: [Sankofaist foundation of the Catalyst Model],
+) <tab:sankofaism-catalyst>
+]
 
 
 

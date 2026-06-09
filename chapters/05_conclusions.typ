@@ -1,16 +1,16 @@
 #import "/template.typ": lorem
 
 = Conclusions
-This thesis aims to explore these questions through a case study of CVTL with a focus on understanding how reporting metrics are shaping knowledge management practices and if this may be leading to epistemological disenfranchisement. 
+This thesis aims to explore these questions through a case study of @cvtl with a focus on understanding how reporting metrics are shaping knowledge management practices and if this may be leading to epistemological disenfranchisement. 
 In the humanitarian sector information carries the weight of life-saving decisions as it determines resource allocation. 
 The way information is produced, shared, and valued can have profound implications for the effectiveness and equity of humanitarian work.
 This clear misalignment between demands and practices could be leading to epistemological disenfranchisement, where the value of IKM is marginalized in favor of metrics that are more easily quantifiable and aligned with Global North institutions' efforts to standardize and "professionalize"
 @escobarEncounteringDevelopment the humanitarian sector.
 
-The dysfunction documented in this study of CVTL is not incidental but structural: it follows from an institutional logic in which the instruments of accountability are simultaneously instruments of epistemic control.
+The dysfunction documented in this study of @cvtl is not incidental but structural: it follows from an institutional logic in which the instruments of accountability are simultaneously instruments of epistemic control.
 The domain misalignment identified through the Cynefin® framework is not merely a technical incompatibility between reporting tools and complex humanitarian realities---it is a political one.
-Through the lens of Theory of Communicative Disenfranchisement, what presents itself as professionalization is revealed as a silencing mechanism that does not simply exclude indigenous knowledge management practices from the formal record but systematically trains local humanitarians to devalue and discard them.
-The persistence of this arrangement, even as donors and INGO staff openly acknowledge its dysfunction, points to the colonial power dynamics that continue to undergird the sector---dynamics that are obscured by the language of partnership, localization, and capacity-building.
+Through the lens of @tcd, what presents itself as professionalization is revealed as a silencing mechanism that does not simply exclude indigenous knowledge management practices from the formal record but systematically trains local humanitarians to devalue and discard them.
+The persistence of this arrangement, even as donors and @ingo staff openly acknowledge its dysfunction, points to the colonial power dynamics that continue to undergird the sector---dynamics that are obscured by the language of partnership, localization, and capacity-building.
 Yet the existence of alternatives---the direct funders, the Catalyst Model, the practitioners who refuse the performance of compliance---demonstrates that this logic is neither inevitable nor irreversible.
 The central contribution of this thesis is therefore not merely diagnostic: it is to insist that the question of what knowledge counts, who is authorized to produce it, and in whose image accountability is designed is not a technical problem amenable to better M&E frameworks, but a political one that requires a fundamental redistribution of epistemic and financial power in the humanitarian sector.
 
@@ -22,8 +22,8 @@ First, donors and INGOs must fundamentally reconceive their accountability frame
 Reporting tools designed for Clear and Complicated domains---log frames, standardized indicators, quarterly output trackers---are structurally incapable of capturing the emergent, relational knowledge that defines effective humanitarian response in Complex and Chaotic contexts.
 Accountability should instead be redesigned around "complexity-informed" processes that allow "the answers emerge from the same group who is researching and acting in the landscape" @CynefinFieldGuideActual[p. 37], centering local humanitarians and affected communities as cproducers of knowledge rather than as data sources to be extracted and translated into donor-legible templates.
 
-A second, inseparable recommendation is to redirect funding flows away from INGO intermediaries and toward direct, trust-based relationships with community-based organizations.
-The OECD's acknowledgement that routing funds through INGOs "actually costs more" @doaneINGOProblem2024[p. 61]---with direct funding delivering programming that is up to 32% more cost-efficient---removes the economic justification for the current intermediary model.
+A second, inseparable recommendation is to redirect funding flows away from @ingo intermediaries and toward direct, trust-based relationships with community-based organizations.
+@oecd's acknowledgement that routing funds through INGOs "actually costs more" @doaneINGOProblem2024[p. 61]---with direct funding delivering programming that is up to 32% more cost-efficient---removes the economic justification for the current intermediary model.
 What remains is the colonial logic of mistrust: the assumption that local organizations cannot be trusted to steward resources without the oversight of a Global North institution.
 Dismantling this assumption requires institutional donors to invest in relationship-building as the primary mechanism of accountability, not as a substitute for oversight but as a more honest and effective form of it.
 Milestone agreements, in which local organizations work autonomously and report only at agreed-upon project junctures, represent a step in this direction, but must be extended beyond the organizations that are already "well known" @InterviewUSAID to those that have historically been excluded from the sector's inner networks precisely because they refused to perform compliance.
@@ -45,19 +45,19 @@ The reforms proposed here do not simply improve operational efficiency; they beg
 
 == Limitations and Scope
 
-This study makes no claim to generalizability in the statistical sense as these findings are grounded in a single-organization case study of CVTL.
-While the structural dynamics identified---domain misalignment, communicative disenfranchisement, and the colonial underpinnings of INGO intermediary models---are consistent with broader critical scholarship on the humanitarian and development sectors, direct extrapolation to other National Societies or community-based organizations requires caution.
-Different contexts will carry different configurations of power, different colonial inheritances, and different degrees of institutional dependency; what holds for CVTL may manifest differently elsewhere.
+This study makes no claim to generalizability in the statistical sense as these findings are grounded in a single-organization case study of @cvtl.
+While the structural dynamics identified---domain misalignment, communicative disenfranchisement, and the colonial underpinnings of @ingo intermediary models---are consistent with broader critical scholarship on the humanitarian and development sectors, direct extrapolation to other National Societies or community-based organizations requires caution.
+Different contexts will carry different configurations of power, different colonial inheritances, and different degrees of institutional dependency; what holds for @cvtl may manifest differently elsewhere.
 
 The qualitative and interpretivist design of this study, while appropriate to the research questions, introduces its own constraints.
 The interview sample, though purposively constructed to include perspectives across the donor-INGO-local-organization spectrum, is necessarily limited in scale.
-The absence of voices from community members directly served by CVTL---those most distant from the reporting apparatus and most affected by resource allocation decisions---represents a gap that future work must address.
+The absence of voices from community members directly served by @cvtl#[]---those most distant from the reporting apparatus and most affected by resource allocation decisions---represents a gap that future work must address.
 Their exclusion was a practical and ethical constraint of the study's scope, not a theoretical one; the epistemological argument advanced here is, in fact, strengthened by centering those voices.
 
-The theoretical frameworks applied---the Cynefin® framework, Theory of Communicative Disenfranchisement, and Sankofaism---are interpretive lenses rather than neutral instruments.
+The theoretical frameworks applied---the Cynefin® framework, @tcd, and Sankofaism---are interpretive lenses rather than neutral instruments.
 Each foregrounds particular dynamics and, by doing so, necessarily places others out of frame.
 Applying Cynefin® to analyze domain misalignment, for instance, reveals the structural incompatibility between reporting tools and complex humanitarian realities but does not speak to the full range of organizational factors that shape how that incompatibility is experienced.
-TCD illuminates the silencing functions of professionalization language but does not exhaust the analysis of power within donor-implementer relationships.
+@tcd illuminates the silencing functions of professionalization language but does not exhaust the analysis of power within donor-implementer relationships.
 Readers should understand these frameworks as productive entry points into the problem rather than exhaustive explanations of it.
 
 Finally, this research reflects a moment in time.
@@ -89,8 +89,8 @@ What does Sankofaism look like in practice across different cultural contexts in
 What institutional conditions are required for the Catalyst Model to scale without itself being captured by the logic it seeks to displace?
 These questions call for collaborative research between practitioners and scholars---research that is itself structured by the principles it advocates, produced from within communities rather than about them.
 
-Finally, this study identifies a clear gap in the TCD literature: while the theory was developed in organizational contexts in the Global North, its application here to the donor-implementer relationship in international humanitarian work reveals its purchase on structural power dynamics that extend well beyond its original scope.
-Extending TCD to other asymmetric aid relationships---between multilateral institutions and national governments, between international research institutions and the communities they study---would both test the framework's limits and sharpen its capacity to reveal how communicative norms function as instruments of epistemic control across scales.
+Finally, this study identifies a clear gap in the @tcd literature: while the theory was developed in organizational contexts in the Global North, its application here to the donor-implementer relationship in international humanitarian work reveals its purchase on structural power dynamics that extend well beyond its original scope.
+Extending @tcd to other asymmetric aid relationships---between multilateral institutions and national governments, between international research institutions and the communities they study---would both test the framework's limits and sharpen its capacity to reveal how communicative norms function as instruments of epistemic control across scales.
 
 The broader contribution this thesis makes to the humanitarian sector is not a single recommendation but a reframing: the question of what counts as knowledge, who is authorized to produce it, and in whose image accountability is designed is not a technical problem that better tools can solve.
 It is a political problem that requires political solutions---solutions that redistibute epistemic and financial power rather than optimize its current allocation.
