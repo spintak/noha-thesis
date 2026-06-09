@@ -266,10 +266,40 @@ Global and regional response mechanisms and surge tools include but are not limi
 - 5.22 #text(weight: "bold", "When fraud or corruption is suspected, necessary action shall be promptly taken. Allegations will be investigated and follow-up action taken as necessary. National Societies and the International Federation shall facilitate and cooperate as needed in each other’s investigations and ensure timely and appropriate information sharing and disclosure to relevant stakeholders")
 @IFRCprinciples[pp. 15-16]
 
-=== #link("http://www.hapinternational.org/what-we-do/hap-standard.aspx", "Humanitarian Accountability Partnership (HAP)") 
+==== Relations with external actors
+===== Humanitarian agencies and other organisations
+- 7.1 National Societies and the International Federation  shall engage in a coordinated manner with humanitarian agencies and other actors which #text(weight: "bold", "seek to strengthen overall coordination, quality and efficiency") of humanitarian assistance. 
+
+- 7.2 When considering establishing an operational partnership with an external actor, the National Society should ensure that such #text(weight: "bold", "partnerships shall not weaken the response capacity of the National Society or the image and reputation of any component of the Movement") operating in the country. #text(weight: "bold", "Guidance may be sought from the International Federation, prior to entering into such partnerships.") 
+
+- 7.3 National Societies may appeal for funding through United Nations’ funding mechanisms for activities in their own countries only provided that they can adhere to the Fundamental Principles and rules and regulations of the Movement and the International Federation.
+
+- 7.4 The International Federation may annex its Emergency  Appeals to #text(weight: "bold", "United Nations’ funding mechanisms to inform the wider humanitarian community") of the International Federation’s humanitarian activities with a focus on collaboration and coordination.
+@IFRCprinciples[p. 18]
+
+===== Private sector
+- 7.5 National Societies and the International Federation  #text(weight: "bold", "shall enter into partnerships with private sector actors that") have respect for the Movement’s humanitarian values, #text(weight: "bold", "have a positive image, and a track record of good ethical behaviour. Due diligence must be performed") on all private sector partnerships when the emblems of the Movement and their designations are used. 
+
+- 7.6 National Societies and the International Federation  #text(weight: "bold", "shall not accept donations from sources which risk the image or reputation of any component of the Movement.") 
+
+- 7.7 Volunteers from #text(weight: "bold", "corporate partners") may only be used  in international humanitarian assistance if they are #text(weight: "bold", "trained for the tasks assigned, adequately insured, and placed under the full management and control") of the sending National Society or National Society of the affected country. The National Society of the affected country must approve the deployment and #text(weight: "bold", "the International Federation must be informed.")
+@IFRCprinciples[pp. 18-19]
+
+===== Final provisions
+- 8.2 These Principles and Rules are #text(weight: "bold", "binding") on the National  Societies and the International Federation. Any violations or other #text(weight: "bold", "reputational and operational risks shall be reported to the appropriate governance mechanism.") 
+
+- 8.3 National Societies and the International Federation  shall ensure that their personnel, volunteers and partners are aware of the content of these Principles and Rules and are #text(weight: "bold", "equipped with the necessary skills and training to comply with them.") 
+
+- 8.4 The need for #text(weight: "bold", "potential review or amendment") of these  Principles and Rules shall be formally considered every four years. 
+
+- 8.5 Any #text(weight: "bold", "dispute between National Societies, or between  National Societies and the International Federation,") related to these Principles and Rules that cannot be resolved by the parties shall be #text(weight: "bold", "addressed to the International Federation’s compliance and mediation committee,") unless otherwise agreed by the disputing parties.
+@IFRCprinciples[p. 20]
+
+
+=== #link("https://reliefweb.int/report/world/2010-hap-standard-accountability-and-quality-management-enar", "Humanitarian Accountability Partnership (HAP)") 
 
 ==== The HAP Standard Principles
- The first four Principles are derived from the Fundamental Principles of the Red Cross. The next six are
+ The first four Principles are derived from the #link("https://www.icrc.org/sites/default/files/topic/file_plus_list/4046-the_fundamental_principles_of_the_international_red_cross_and_red_crescent_movement.pdf", "Fundamental Principles of the Red Cross"). The next six are
 specifically relevant to accountability, with some derived from the HAP Principles of Accountability.
 
 - Humanity: concern for human welfare and respect for the individual.
