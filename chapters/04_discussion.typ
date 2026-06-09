@@ -100,7 +100,15 @@ Calling this a partnership does not make it one.
 The fiction of partnership is not merely semantic---it actively forecloses accountability by framing donor-imposed conditions as collaborative agreements, and by shifting any critique of the arrangement from a structural question of power to an interpersonal failure of the local organization to engage constructively.
 This language functions ideologically, normalizing donor authority while rendering local dependency invisible; yet the term persists precisely because it is useful to those who hold power within the relationship.
 
+Even "localization" efforts are built upon and perpetuate this power imbalance.
+Localizing can take the form of international organizations from the Global North setting up country or regional offices @doaneINGOProblem2024[p. 25]. "Not only did this form of localizing potentially displace funding away from local organizations---there is some anecdotal evidence showing that rather than growing the space" @doaneINGOProblem2024[p. 93] the presence of these representatives from the Global North "effectively cannibalizing the sector, rather than adding value" @doaneINGOProblem2024[p. 26].
 
+Localization can also refer to the intention of involving local actors into project design, implementation, and evaluation.
+While this approach may sound more egalitarian, the USAID officer interviewed admitted that in actuality INGOs often treat it as "a hand-holding exercise" to assist a local organization to "build up their capacity" once they were deemed to reach a suitable level of competency @InterviewUSAID.
+#quote(block: true, attribution: [@InterviewUSAID])["We used to joke in USAID that our job was to work ourselves out of a job, right. You would hope, but not under this situation only the most truly altruistic person wants to actually work themselves out of the job---especially if you've got kids, you've got a mortgage, and all these things. So you have a certain self-interest in seeing _these_ kinds of localization efforts continue. Because if you say, 'oh, well, they can do it on their own now,' well now what do _we_ do? But if you say, 'well, they made some real improvements in this area but they've got serious gaps here so what we really need to do is refocus the money on this area where we feel they're still super weak,'there's your justification!"]
+This is not a system failing at the margins; it is a system working exactly as designed. 
+The question becomes not how to reform individual actors but how to build approaches that do not require their altruism.
+The following section draws on emergent practice and theoretical interventions to consider what such a response might look like.
 
 
 == Implications for Practice
@@ -129,8 +137,11 @@ This approach is intentional: by resisting the imposition of Western bureaucrati
 By identifying existing organizations to offer direct funding, the foundation aims to "enhance what they [the local organization] are doing and become more like a catalyst" by supporting the ways in which they are already working @InterviewFunder.
 "We do not want to ever change their value system, their culture, because that's where the real richness come from. We believe in absolute pluralism. We don't believe that a garden should only have one kind of flowers. We don't go through bureaucracy and make it difficult for people." @InterviewFunder.
 
-This model reflects what Escobar envisions as grassroots "return to culture" movements @escobarEncounteringDevelopment[p. 14]: rather than treating local knowledge and practice as deficits to be corrected through standardized frameworks, the founder's approach positions cultural difference as the foundation from which meaningful, community-rooted change emerges. 
-Where mainstream donors extract local organizations into the logic of the Humanitarian Industrial Complex through reporting requirements and conditionality, this model leaves that logic at the door.
-Redirection of 
+This Catalyst Model is an operational and relational approach for reform founded on Sankofaism @MdhuliKM, what Escobar envisions as grassroots "return to culture" movements @escobarEncounteringDevelopment[p. 14]: rather than treating local knowledge and practice as deficits to be corrected through standardized frameworks, the founder's approach positions cultural difference as the foundation from which meaningful, community-rooted change emerges. 
+Where mainstream donors extract local organizations into the logic of the Humanitarian Industrial Complex through bureaucratic burdens like reporting requirements and conditionality, this model is an approach for project design to be built from the ground up by the actual humanitarians in and from the contexts in question. 
+The Catalyst Model provides the structural space required for Sankofaism to flourish, without imposing any one cultural norm, in promotion of enfranchisement of local humanitarian practitioners. 
+By removing the the relentless donor demand for standardized, 'ordered' comprehension, the Catalyst Model allows local practitioners the freedom to step away from their desks and engage in the "renaissance launch pad" of Sankofaism, building a future that is authentically grounded in their community's "treasured past" that continues to inform their current behaviors and practices @MdhuliKM[p. 3].
+
+
 
 

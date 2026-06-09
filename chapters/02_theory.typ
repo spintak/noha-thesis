@@ -236,7 +236,6 @@ According to Doane, "most risk management and due diligence systems" of these in
 
 Donors hype vague concepts of 'empowerment' and 'localization,'  but the extent of autonomy granted to local 'partner' organizations and their staff is limited by the standardized reporting mechanisms. 
 Looking back to Johar's thoughts on "goal-coded systems", he argues that orientation is often overlooked:
-
 #quote(block: true, attribution: [@JoharGoalCodedSystemsCrisis])[
 Orientation is deeper than agency. Orientation is the formation of concern. It is the emergence of direction from within a life, a body, a history, a field of relations, a condition of vulnerability, a horizon of death and continuity. Orientation is not merely the capacity to pursue an end. It is the capacity to discover, revise and be claimed by what ends are worth pursuing.]
 
@@ -247,3 +246,7 @@ These humanitarians have to spend their time filling out forms and writing repor
 In a study of the digitalization of indigenous knowledge, the concept of "Sankofaism" proved foundational to this thesis:
 #quote(block: true, attribution: [@MdhuliKM[p. 3]])[
 "Sankofaism is a philosophical paradigm that focuses on promoting African and indigenous ways of knowledge and skill development (Dei 2012). The African concept of Sankofa emphasises building bridges between the past and present to offer a formidable future. It provides a renaissance launch pad for the preservation of a treasured positive past, which seeks to provide the foundations that promote methodologies that are consistent with realities in Africa (Eshun 2011). It is a pivotal theme in Afrocentric education, philosophy and cultural milieus as it presents platforms for confronting mischaracterisations of African creative and pedagogical spaces (Bastos 2009)."]
+
+Localization from a Sankofaist approach is not a box to be checked and instead is its very orientation.
+A truly Sankofaist design would not produce this tension at all as locals would the creators and evaluators, answerable only to themselves and oriented within their own traditions of sense-making.
+It is within this tension between the externally imposed orientation of donor-driven reporting systems and the suppressed orientation of local knowledge traditions that this thesis situates its empirical investigation into the communicative disenfranchisement of humanitarian workers in Timor-Leste.
