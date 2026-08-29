@@ -29,9 +29,9 @@ The Cynefin® framework was "designed to manage anthro-complexity, or complexity
 With it's emphasis on "bounded applicability"-- "that there are few, if any, context-free solution but many valid context-specific ones"--the framework is "a way of determining what method or approach" should be applied "and, critically, when you should change it" @Cynefin[p. 4].
 The Cynefin® framework identifies three types of systems:
 #quote(block: true, attribution: [@Cynefin[p. 4]])[
-  + "Ordered systems in which cause and effect relationships are either clear or discoverable through analysis;
+  + Ordered systems in which cause and effect relationships are either clear or discoverable through analysis;
   + Complex systems in which the only way to understand the system is to interact;
-  + Chaotic systems in which turbulence prevails and immediate stabilizing action is required"]
+  + Chaotic systems in which turbulence prevails and immediate stabilizing action is required.]
 
 #grid(
   columns: (1fr, 1fr),
@@ -50,7 +50,7 @@ The Cynefin® framework identifies three types of systems:
 
 These systems are then mapped to the five domains, decision logics that guide how to navigate and manage the system:
 #quote(block: true, attribution: [@CynefinUmbrex[p. 2]])[
-  + "Clear: Cause and effect are self-evident; constraints are fixed; there are known, proven solutions.
+  + Clear: Cause and effect are self-evident; constraints are fixed; there are known, proven solutions.
     - Decision logic: Sense → Categorize → Respond
     - Guidance: apply best practice, standard operating procedures, checklists, automation.
     - Examples: routine compliance steps, password reset, standard invoice processing.
@@ -67,7 +67,7 @@ These systems are then mapped to the five domains, decision logics that guide ho
     - Guidance: establish order fast, create or restore constraints, then transition to complex/complicated methods.
     - Examples: cyber breach unfolding, major outage, PR crisis.
   + Disorder: You don't yet know which domain you're in; stakeholders use their preferred methods by default, often talking past each other.
-    - Guidance: break the situation into parts and assign each to a likely domain; gather multiple perspectives to reduce ignorance.""]
+    - Guidance: break the situation into parts and assign each to a likely domain; gather multiple perspectives to reduce ignorance.]
 
 Limitations of the framework include its focus on organizational decision-making and its potential oversimplification of complex social phenomena. 
 However, it provides a useful lens for understanding the challenges of knowledge management in humanitarian contexts. Methodologically, because the Cynefin® framework is utilized as a "decision support framework" rather than a predictive model, the findings are intended to offer diagnostic perspective and "sense-making" rather than "context-free" or "standard solutions" @Cynefin. 
@@ -111,7 +111,7 @@ This ideology creates a "geopolitical imagination" where Global North standards 
 
 == Bureaucratization of Knowledge 
 In their chapter, 'Evaluation and the White Gaze in International Development', authors Sadaf Shallwani and Shama Dossa boldly claim:
-#quote(block: true, attribution: [@EvaluationWhiteGaze [p. 52]])[
+#quote(block: true, attribution: [@EvaluationWhiteGaze[p. 52]])[
 "The White gaze shapes how issues are conceptualized, understood and measured by establishing Whiteness as the norm and the White Western world as the centre of legitimate knowledge. The White gaze focuses on perceived deficits in Brown and Black people and defines success and how it can be measured. The White gaze further determines what is considered valid knowledge and valid evidence through the technocratization of the field of evaluation and its methods."]
 
 This "technocratization" of knowledge is not a neutral evolution of professional standards; it is the methodological expression of a far older colonial order. In his seminal work, "Encountering Development: The Making and Unmaking of the Third World", Dr. Arturo Escobar asks his readers not to "overlook the ways in which development operates as an arena of cultural contestation and identity construction" @escobarEncounteringDevelopment[p. 15].
@@ -131,7 +131,7 @@ The Mandate System was a legal framework that allowed colonial powers to adminis
 Although the Mandate System was ostensibly designed to prepare these territories for independence and "sought to ensure their protection" @AnghieImperialism[p. 116], it also established a system of governance that was based on the principles of Western administration and management through "not only a set of rules, but also an entire system that, among other things, would collect information, analyse that information and formulate a policy" @AnghieImperialism[p. 155].
 This system was established in 1919 yet the current operational structure of management and funding still stands where "the natives existed more vividly in Geneva, where all this information was gathered and processed, than they did in the mandate territories themselves. The use of these new technologies of monitoring and management created an entirely new science... 'a science of colonial administration'" @AnghieImperialism[p. 184].
 
-The manifestation of these structures of administration in the humanitarian sector prove to be "one of the most fundamental systemic barriers to shifting power in the system," stated Diane Doane, author of "The INGO Problem: privelege, power, and renewal" @doaneINGOProblem2024[p. 42]. 
+The manifestation of these structures of administration in the humanitarian sector prove to be "one of the most fundamental systemic barriers to shifting power in the system," stated Diane Doane, author of _The INGO Problem: Power, privilege, and renewal_ @doaneINGOProblem2024[p. 42]. 
 "The imposition of bureaucracy by donors and INGOs in order to protect people and whole organizations along the value chain of civil society has come to supplant the idea of meaningful engagement" @doaneINGOProblem2024[pp. 42-43]. 
 In a sector where time and effort directly correspond to life and death, or at least the ease of suffering, "the problems of bureaucracy and how it takes their time away from helping people, the ridiculous amounts of form-filling and meetings, and the expectations to keep all INGOs informed of all of their work all of the time, repeating this for every new INGO staff member that comes on board" simply undermines real-world impact @doaneINGOProblem2024[p. 18].
 The dynamic, minute-by-minute, changing needs of individual humanitarian situations are limited in their response due to the oversight and demands of these foreign donors. 

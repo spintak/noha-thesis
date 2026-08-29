@@ -14,7 +14,7 @@ The reporting metrics demanded by donors are standardized across the humanitaria
 Lack of adherence to the reporting requirements can lead to loss of funding and resources, which can have serious consequences for the organization's ability to carry out its humanitarian work and even its continued existence.
 The disconnect between the reporting metrics and the practices of local staff can also lead to a lack of trust and credibility with donors, which can further jeopardize funding and resources.
 This misalignment between demands and practices may be an anomaly to @cvtl, but it is also very possible that this is an issue that is widespread across the humanitarian sector, particularly for other organizations operating in post-colonial contexts with a strong oral knowledge sharing tradition.
-The purpose of this thesis is to investigate whether @cvtl’s lack of strict adherence to the standardized reporting metrics is a localized organizational issue or if it is symptomatic of a wider structural incongruence between preferred practices of humanitarian workers from the working contexts and that of global humanitarian structures of project cycle management.
+The purpose of this thesis is to investigate whether @cvtl's lack of strict adherence to the standardized reporting metrics is a localized organizational issue or if it is symptomatic of a wider structural incongruence between preferred practices of humanitarian workers from the working contexts and that of global humanitarian structures of project cycle management.
  
 == Surviving in the system
 The humanitarian sector operates with a fundamental tension between local autonomy and standardization---derived from and imposed by Global North institutions---in the name of accountability.
@@ -27,7 +27,7 @@ Technical upgrades, such as the implementation of digital reporting systems, are
 Local practitioners may find themselves navigating a complex web of reporting requirements that do not align with their preferred ways of sharing knowledge or value the information they deem important, leading to frustration and a sense of disempowerment.
 The rigid, "ordered" reporting systems are demanded by the international institutions and donors that supply the funding to partner organizations in the Global South and are standardized across the humanitarian sector in an effort to professionalize the sector and create accountability.
 The problem is that these systems are not context-based and instead impose a one-size-fits-all approach to @km that may not be suitable for all organizations, particularly those operating in post-colonial contexts with strong oral traditions.
-Local humanitarian workers may find themselves becoming "custodians of comprehension" @JoharCatalyst ---bureaucrats tallying the numbers and filling out the forms to satisfy donor requirements---rather than "catalysts for transformation" @JoharCatalyst ---practitioners who are able to use their local knowledge and expertise to drive meaningful change in their communities.
+Local humanitarian workers may find themselves becoming "custodians of comprehension"  bureaucrats tallying the numbers and filling out the forms to satisfy donor requirements --- rather than "catalysts for transformation" --- practitioners who are able to use their local knowledge and expertise to drive meaningful change in their communities @JoharCatalyst.
 And so, partner organizations in the Global South, like @cvtl, and their staff are left to negotiate their legitimacy within the system while navigating the power dynamics in which they are dependent on the funding and resources provided by Global North institutions and donors.
 
 == Problem Statement
@@ -39,7 +39,7 @@ By examining the case of @cvtl, this thesis seeks to shed light on the broader d
 The research aims to answer the following research question:
 
 #block_emph[
-  How does the "culture of comprehension" @KatsamangosImpotentSocialMovement ---the bureaucratic demand for ordered, standardized reporting metrics---function as a mechanism of communicative disenfranchisement for local humanitarian workers in the Global South and in what ways do these actors navigate the tension between local knowledge management practices and the demands of international donors?
+  How does the "culture of comprehension" @KatsamangosImpotentSocialMovement --- the bureaucratic demand for ordered, standardized reporting metrics --- function as a mechanism of communicative disenfranchisement for local humanitarian workers in the Global South and in what ways do these actors navigate the tension between local knowledge management practices and the demands of international donors?
 ]
 
 === Study Objectives

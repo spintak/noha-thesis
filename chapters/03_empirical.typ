@@ -1,7 +1,7 @@
 #import "/template.typ": lorem
 
 = Methodology
-This research utilizes a qualitative case study to investigate the communicative processes that shape knowledge management within @cvtl, serving as an entry point to analyze the broader "documentary reality" (Smith, 1990 cited in @escobarEncounteringDevelopment[p. 107]) created by donor institutions in the humanitarian sector.
+This research utilizes a qualitative case study to investigate the communicative processes that shape knowledge management within @cvtl, serving as an entry point to analyze the broader "documentary reality" (Smith, 1990 cited in #cite(<escobarEncounteringDevelopment>, form: "prose", supplement: [p. 107])) created by donor institutions in the humanitarian sector.
 The mixed-method research will involve a combination of participant observation, semi-structured interviews, and document analysis to gather data on the experiences and perspectives of local humanitarian workers at @cvtl. 
 Document analysis will review institutional guidelines and reports in order to understand the formal structures and expectations around knowledge management and reporting.
 Data analysis will be conducted using thematic analysis to identify key themes and patterns in the data.
