@@ -36,13 +36,12 @@ Perhaps most telling is the Disorder domain, in which "stakeholders use their pr
 The communication chasm between @cvtl and the donors may be understood, in part, as a domain misalignment---a mismatch not of effort or capacity, but of the decision logic being applied to the system.
 
 "Our brain is not like a computer in such an ordered way. Things come in different ways and so sometimes the mixed information makes it difficult to write a good report," explained one @cvtl staff member @InterviewCVTLmanager.
-
 The persistance of the demands for ordered mechanisms of reporting has resulted in "fatigue" among the local humanitarian workers, explained the @usaid interviewee.
 They noted that donors often operate in multiple countries, and so:
-#quote(block: true, attribution: [@InterviewUSAID])[ "They want to have a unified system for reporting so that they can take all this information and aggregate it together. 
+#quote(block: true, attribution: [@InterviewUSAID])[ They want to have a unified system for reporting so that they can take all this information and aggregate it together. 
 This was classic USAID or World Bank or many of the other agencies. 
 They come up with these systems that, number one, don't necessarily match what people are kind of accustomed to and number two, which is maybe a related issue, is that the donors don't coordinate their systems with one another. So each donor has its own way of doing things and its own. 
-So the partners can sometimes get a little bit fatigued by this because, you know, USAID wants one kind of reporting and the Germans want another kind of reporting and the EU wants another kind of reporting and it gets a little exasperating, to be honest, from their side."]
+So the partners can sometimes get a little bit fatigued by this because, you know, USAID wants one kind of reporting and the Germans want another kind of reporting and the EU wants another kind of reporting and it gets a little exasperating, to be honest, from their side.]
 
 The "administrative burden" @InterviewUSAID can often eclipse the purpose of the project and, as noted earlier by Johar, the "goal-coded system" results in a "crisis of orientation" @JoharGoalCodedSystemsCrisis. 
 Humanitarians put their administrative efforts into tracking easily identifiable elements, like indicators, while information that is less quantifiable or dependent on a longer time-frame is overlooked @InterviewARC @InterviewERstaff @InterviewUSAID @InterviewCVTLmanager.
@@ -56,7 +55,7 @@ While officers and volunteers may excel at tracking quantitative information lik
 The intangible nature of success leaves so much room for interpretation that in order to justify the funds spent, report writing frequently stretches the correlative relationship between a project and outcomes @InterviewUSAID. 
 
 #quote(block: true, attribution: [@InterviewUSAID])[ 
-"CVTL is feeling that as well because they're under pressure to report on things and one of the problems with putting that kind of pressure---and it's not that the pressure is just completely wrong, I mean there's a reason for it---but sometimes just to satisfy the funder yeah you want to say something that sounds sort of outcome-ish. 
+CVTL is feeling that as well because they're under pressure to report on things and one of the problems with putting that kind of pressure---and it's not that the pressure is just completely wrong, I mean there's a reason for it---but sometimes just to satisfy the funder yeah you want to say something that sounds sort of outcome-ish. 
 They may be on shaky ground trying to report on that so that's another aspect of it. 
 
 And then the last piece of this, of course, is the the so-called attribution piece: 
@@ -67,7 +66,7 @@ There was a lot of reporting that I did on my side where we, you know, I'm not s
 But I couldn't really give you a sort of nice causal, logical path and say because we gave 2 million dollars for such and such and we did the following things that is exactly why this thing changed. 
 There could have been all sorts of other factors that were involved, and probably there were. 
 So that also makes outcome reporting tricky as well. 
-But there is pressure to report on outcomes because that's what everybody wants to see."]
+But there is pressure to report on outcomes because that's what everybody wants to see.]
 
 Yet this pressure and structure is not an absolute necessity. The founder of a non-profit that provides direct funding to local humanitarian organizations across more than 70 countries described a deliberately different philosophy: "We don't want to know how the watch was invented... sophistication means simplicity not complexity" @InterviewFunder. 
 Rather than layering on the kind of multi-indicator frameworks and attribution demands described above, this funder builds accountability through sustained relationships with local organizations, treating trust as the mechanism of oversight rather than paperwork. 
@@ -105,7 +104,7 @@ Localizing can take the form of international organizations from the Global Nort
 
 Localization can also refer to the intention of involving local actors into project design, implementation, and evaluation.
 While this approach may sound more egalitarian, the @usaid officer interviewed admitted that in actuality INGOs often treat it as "a hand-holding exercise" to assist a local organization to "build up their capacity" once they were deemed to reach a suitable level of competency @InterviewUSAID.
-#quote(block: true, attribution: [@InterviewUSAID])["We used to joke in USAID that our job was to work ourselves out of a job, right. You would hope, but not under this situation only the most truly altruistic person wants to actually work themselves out of the job---especially if you've got kids, you've got a mortgage, and all these things. So you have a certain self-interest in seeing _these_ kinds of localization efforts continue. Because if you say, 'oh, well, they can do it on their own now,' well now what do _we_ do? But if you say, 'well, they made some real improvements in this area but they've got serious gaps here so what we really need to do is refocus the money on this area where we feel they're still super weak,'there's your justification!"]
+#quote(block: true, attribution: [@InterviewUSAID])[We used to joke in USAID that our job was to work ourselves out of a job, right. You would hope, but not under this situation only the most truly altruistic person wants to actually work themselves out of the job---especially if you've got kids, you've got a mortgage, and all these things. So you have a certain self-interest in seeing _these_ kinds of localization efforts continue. Because if you say, 'oh, well, they can do it on their own now,' well now what do _we_ do? But if you say, 'well, they made some real improvements in this area but they've got serious gaps here so what we really need to do is refocus the money on this area where we feel they're still super weak,'there's your justification!]
 This is not a system failing at the margins; it is a system working exactly as designed by the Global North. To quote the incomparable Dr. Edward Said, "In a quite constant way, Orientalism depends for its strategy on this flexible positional
 superiority, which puts the Westerner in a whole series of possible relationships with the Orient
 without ever losing him the relative upper hand" @said1978orientalism[p. 15]
