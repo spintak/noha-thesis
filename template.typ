@@ -31,9 +31,9 @@
   
   set par(
     justify: true,
-    leading: 0.5em,
+    leading: 1em,
     first-line-indent: 0em,
-    spacing: 0.85em,
+    spacing: 1em,
     linebreaks: "optimized",
   )
   
